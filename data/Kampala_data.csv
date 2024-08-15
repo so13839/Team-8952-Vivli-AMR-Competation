@@ -1,0 +1,671 @@
+Isolate_Id,x,y,Species,Family,Region,Gender,Age Group,Year,Speciality,Source,In / Out Patient,Amikacin,Ampicillin,Erythromycin,Doripenem
+39018,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Female,19 to 64 Years,2020,Emergency Room,Abscess,No Information,No Information,No Information,Susceptible,Resistant
+39007,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Female,0 to 2 Years,2021,Pediatric General,Abscess,No Information,No Information,No Information,Susceptible,Resistant
+39011,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Male,0 to 2 Years,2022,Other,Abscess,No Information,No Information,No Information,Susceptible,Resistant
+39020,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Male,19 to 64 Years,2019,Medicine General,Wound,No Information,No Information,No Information,Intermediate,Resistant
+1046295,32.66032,0.34752,Proteus mirabilis,Enterobacteriaceae,Bweyogerere,Male,3 to 12 Years,2019,Medicine General,Urine,Inpatient,Intermediate,Resistant,No Information,Resistant
+1058890,32.66032,0.34752,Serratia marcescens,Enterobacteriaceae,Bweyogerere,Female,85 and Over,2019,Surgery General,Respiratory: Other,Inpatient,Intermediate,Intermediate,No Information,Susceptible
+1058891,32.66032,0.34752,Serratia marcescens,Enterobacteriaceae,Bweyogerere,Male,19 to 64 Years,2019,Surgery General,Wound,Inpatient,Intermediate,Intermediate,No Information,Resistant
+1058899,32.66032,0.34752,Klebsiella pneumoniae,Enterobacteriaceae,Bweyogerere,Female,3 to 12 Years,2019,Pediatric General,Urine,Inpatient,Intermediate,Resistant,No Information,Resistant
+1058926,32.66032,0.34752,Escherichia coli,Enterobacteriaceae,Bweyogerere,Female,3 to 12 Years,2019,Medicine General,Urine,Inpatient,Intermediate,Resistant,No Information,Resistant
+1058929,32.66032,0.34752,Escherichia coli,Enterobacteriaceae,Bweyogerere,Female,19 to 64 Years,2019,Medicine ICU,Wound,Inpatient,Intermediate,Resistant,No Information,Resistant
+1058933,32.66032,0.34752,Proteus mirabilis,Enterobacteriaceae,Bweyogerere,Male,0 to 2 Years,2019,Medicine General,Urine,Inpatient,Intermediate,Susceptible,No Information,Resistant
+1046230,32.66032,0.34752,Staphylococcus aureus,Staphylococcus spp,Bweyogerere,Male,3 to 12 Years,2019,Medicine General,Wound,Inpatient,No Information,No Information,Susceptible,Resistant
+1046231,32.66032,0.34752,Staphylococcus aureus,Staphylococcus spp,Bweyogerere,Female,0 to 2 Years,2019,Pediatric ICU,Wound,Inpatient,No Information,No Information,Susceptible,Resistant
+1046232,32.66032,0.34752,Staphylococcus aureus,Staphylococcus spp,Bweyogerere,Female,19 to 64 Years,2019,Medicine General,Wound,Inpatient,No Information,No Information,Intermediate,Resistant
+1046233,32.66032,0.34752,Staphylococcus aureus,Staphylococcus spp,Bweyogerere,Male,19 to 64 Years,2019,Medicine General,Sputum,Inpatient,No Information,No Information,Intermediate,Resistant
+1046234,32.66032,0.34752,Staphylococcus aureus,Staphylococcus spp,Bweyogerere,Male,13 to 18 Years,2019,Pediatric General,Wound,Inpatient,No Information,No Information,Intermediate,Resistant
+1046235,32.66032,0.34752,Staphylococcus aureus,Staphylococcus spp,Bweyogerere,Female,19 to 64 Years,2019,Medicine General,Wound,Inpatient,No Information,No Information,Resistant,Resistant
+1046236,32.66032,0.34752,Staphylococcus aureus,Staphylococcus spp,Bweyogerere,Male,19 to 64 Years,2019,Medicine General,Skin: Other,Inpatient,No Information,No Information,Susceptible,Susceptible
+1046237,32.66032,0.34752,Staphylococcus aureus,Staphylococcus spp,Bweyogerere,Male,65 to 84 Years,2019,Medicine General,Wound,Inpatient,No Information,No Information,Intermediate,Resistant
+1046238,32.66032,0.34752,Streptococcus pyogenes,Streptococcus spp (no S. pneumo),Bweyogerere,Female,65 to 84 Years,2019,Medicine General,Skin: Other,Inpatient,No Information,No Information,Susceptible,Resistant
+1046239,32.66032,0.34752,Streptococcus pyogenes,Streptococcus spp (no S. pneumo),Bweyogerere,Female,19 to 64 Years,2019,Medicine General,Wound,Inpatient,No Information,No Information,Susceptible,Resistant
+1046240,32.66032,0.34752,Streptococcus dysgalactiae,Streptococcus spp (no S. pneumo),Bweyogerere,Female,19 to 64 Years,2019,Medicine General,Respiratory: Other,Inpatient,No Information,No Information,Susceptible,Susceptible
+1046241,32.66032,0.34752,Streptococcus pyogenes,Streptococcus spp (no S. pneumo),Bweyogerere,Female,19 to 64 Years,2019,Medicine General,Respiratory: Other,Inpatient,No Information,No Information,Susceptible,Resistant
+1046253,32.66032,0.34752,Streptococcus pyogenes,Streptococcus spp (no S. pneumo),Bweyogerere,Male,3 to 12 Years,2019,Medicine General,Respiratory: Other,Inpatient,No Information,No Information,Susceptible,Resistant
+1046254,32.66032,0.34752,Streptococcus pyogenes,Streptococcus spp (no S. pneumo),Bweyogerere,Female,65 to 84 Years,2019,None Given,Skin: Other,None Given,No Information,No Information,Susceptible,Susceptible
+1046255,32.66032,0.34752,Streptococcus pyogenes,Streptococcus spp (no S. pneumo),Bweyogerere,Female,13 to 18 Years,2019,Medicine General,Respiratory: Other,Inpatient,No Information,No Information,Susceptible,Resistant
+39041,32.6276,0.35131,Escherichia coli,Enterobacteriaceae,Kyambogo,Male,19 to 64 Years,2019,Other,Respiratory: Other,No Information,Resistant,Resistant,No Information,Resistant
+39034,32.6276,0.35131,Escherichia coli,Enterobacteriaceae,Kyambogo,Male,19 to 64 Years,2019,General Unspecified ICU,Endotracheal aspirate,No Information,Susceptible,Resistant,No Information,Resistant
+39037,32.6276,0.35131,Klebsiella pneumoniae,Enterobacteriaceae,Kyambogo,Male,19 to 64 Years,2019,General Unspecified ICU,Endotracheal aspirate,No Information,Susceptible,Resistant,No Information,Resistant
+39038,32.6276,0.35131,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Kyambogo,Male,19 to 64 Years,2019,General Unspecified ICU,Endotracheal aspirate,No Information,Susceptible,No Information,No Information,Resistant
+39039,32.6276,0.35131,Klebsiella variicola,Enterobacteriaceae,Kyambogo,Male,65 to 84 Years,2019,Medicine General,Sputum,No Information,Susceptible,Resistant,No Information,Resistant
+39043,32.6276,0.35131,Escherichia coli,Enterobacteriaceae,Kyambogo,Female,19 to 64 Years,2019,Surgery General,Skin: Other,No Information,Susceptible,Resistant,No Information,Susceptible
+39044,32.6276,0.35131,Klebsiella pneumoniae,Enterobacteriaceae,Kyambogo,Male,19 to 64 Years,2019,General Unspecified ICU,Endotracheal aspirate,No Information,Susceptible,Resistant,No Information,No Information
+39045,32.6276,0.35131,Klebsiella pneumoniae,Enterobacteriaceae,Kyambogo,Female,0 to 2 Years,2019,Pediatric General,Blood,No Information,Susceptible,Resistant,No Information,No Information
+39046,32.6276,0.35131,Escherichia coli,Enterobacteriaceae,Kyambogo,Female,19 to 64 Years,2019,Other,Abscess,No Information,Susceptible,Resistant,No Information,No Information
+39047,32.6276,0.35131,Acinetobacter nosocomialis,Non-Enterobacteriaceae,Kyambogo,Male,19 to 64 Years,2019,General Unspecified ICU,Endotracheal aspirate,No Information,Susceptible,No Information,No Information,No Information
+39048,32.6276,0.35131,Klebsiella pneumoniae,Enterobacteriaceae,Kyambogo,Male,19 to 64 Years,2019,General Unspecified ICU,Endotracheal aspirate,No Information,Susceptible,Resistant,No Information,No Information
+39049,32.6276,0.35131,Escherichia coli,Enterobacteriaceae,Kyambogo,Female,19 to 64 Years,2019,Surgery General,Liver,No Information,Susceptible,Resistant,No Information,No Information
+39050,32.6276,0.35131,Klebsiella pneumoniae,Enterobacteriaceae,Kyambogo,Male,0 to 2 Years,2019,Pediatric General,Wound,No Information,Susceptible,Resistant,No Information,No Information
+39051,32.6276,0.35131,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Kyambogo,Male,0 to 2 Years,2019,Pediatric General,Wound,No Information,Susceptible,No Information,No Information,No Information
+39052,32.6276,0.35131,Klebsiella pneumoniae,Enterobacteriaceae,Kyambogo,Female,0 to 2 Years,2019,Pediatric General,Blood,No Information,Susceptible,Resistant,No Information,No Information
+39053,32.6276,0.35131,Acinetobacter baumannii,Non-Enterobacteriaceae,Kyambogo,Male,19 to 64 Years,2019,General Unspecified ICU,Endotracheal aspirate,No Information,Susceptible,No Information,No Information,Resistant
+39054,32.6276,0.35131,Klebsiella pneumoniae,Enterobacteriaceae,Kyambogo,Male,19 to 64 Years,2019,General Unspecified ICU,Endotracheal aspirate,No Information,Susceptible,Resistant,No Information,Resistant
+39055,32.6276,0.35131,Klebsiella pneumoniae,Enterobacteriaceae,Kyambogo,Male,3 to 12 Years,2019,General Unspecified ICU,Endotracheal aspirate,No Information,Susceptible,Resistant,No Information,Resistant
+39056,32.6276,0.35131,Klebsiella pneumoniae,Enterobacteriaceae,Kyambogo,Female,19 to 64 Years,2019,Surgery General,Wound,No Information,Susceptible,Resistant,No Information,Resistant
+39057,32.6276,0.35131,Klebsiella pneumoniae,Enterobacteriaceae,Kyambogo,Male,65 to 84 Years,2019,General Unspecified ICU,Endotracheal aspirate,No Information,Susceptible,Resistant,No Information,Resistant
+39058,32.6276,0.35131,Acinetobacter baumannii,Non-Enterobacteriaceae,Kyambogo,Male,65 to 84 Years,2019,General Unspecified ICU,Endotracheal aspirate,No Information,Susceptible,No Information,No Information,Intermediate
+39090,32.6276,0.35131,Klebsiella pneumoniae,Enterobacteriaceae,Kyambogo,Male,19 to 64 Years,2019,Emergency Room,Blood,No Information,Susceptible,Resistant,No Information,Resistant
+39091,32.6276,0.35131,Klebsiella pneumoniae,Enterobacteriaceae,Kyambogo,Male,19 to 64 Years,2019,Surgery General,Ulcer,No Information,Susceptible,Resistant,No Information,Resistant
+39093,32.6276,0.35131,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Kyambogo,Male,19 to 64 Years,2019,Surgery General,Wound,No Information,Susceptible,No Information,No Information,Resistant
+39095,32.6276,0.35131,Escherichia coli,Enterobacteriaceae,Kyambogo,Male,19 to 64 Years,2019,Surgery General,Wound,No Information,Susceptible,Resistant,No Information,Resistant
+39096,32.6276,0.35131,Escherichia coli,Enterobacteriaceae,Kyambogo,Female,19 to 64 Years,2019,Medicine General,Urine,No Information,Susceptible,Resistant,No Information,Resistant
+39099,32.6276,0.35131,Escherichia coli,Enterobacteriaceae,Kyambogo,Female,19 to 64 Years,2019,Surgery General,Wound,No Information,Susceptible,Resistant,No Information,Resistant
+39100,32.6276,0.35131,Klebsiella pneumoniae,Enterobacteriaceae,Kyambogo,Female,19 to 64 Years,2019,Surgery General,Urine,No Information,Susceptible,Resistant,No Information,Resistant
+39102,32.6276,0.35131,Escherichia coli,Enterobacteriaceae,Kyambogo,Male,19 to 64 Years,2019,Surgery General,Wound,No Information,Susceptible,Resistant,No Information,Resistant
+39103,32.6276,0.35131,Klebsiella pneumoniae,Enterobacteriaceae,Kyambogo,Male,0 to 2 Years,2019,Surgery General,Blood,No Information,Susceptible,Resistant,No Information,Resistant
+39105,32.6276,0.35131,Escherichia coli,Enterobacteriaceae,Kyambogo,Male,19 to 64 Years,2019,Surgery General,Abscess,No Information,Susceptible,Resistant,No Information,Resistant
+39106,32.6276,0.35131,Klebsiella pneumoniae,Enterobacteriaceae,Kyambogo,Female,65 to 84 Years,2019,Medicine General,Wound,No Information,Susceptible,Resistant,No Information,Resistant
+39107,32.6276,0.35131,Escherichia coli,Enterobacteriaceae,Kyambogo,Female,65 to 84 Years,2019,Medicine General,Wound,No Information,Susceptible,Resistant,No Information,Susceptible
+1106462,32.53299,0.31665,Proteus vulgaris,Enterobacteriaceae,Lugala,Male,65 to 84 Years,2019,Surgery ICU,Wound,Inpatient,Intermediate,Resistant,No Information,Resistant
+1106655,32.53299,0.31665,Klebsiella aerogenes,Enterobacteriaceae,Lugala,Male,19 to 64 Years,2019,Medicine General,Respiratory: Other,Inpatient,Intermediate,Resistant,No Information,Resistant
+1147313,32.53299,0.31665,Escherichia coli,Enterobacteriaceae,Lugala,Female,19 to 64 Years,2019,Other,Urine,None Given,Intermediate,Resistant,No Information,Resistant
+1106432,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Male,65 to 84 Years,2019,Medicine General,Urine,Inpatient,Resistant,No Information,No Information,Resistant
+1106434,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Male,19 to 64 Years,2019,Medicine General,Blood,Inpatient,Resistant,No Information,No Information,Resistant
+39013,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Male,19 to 64 Years,2019,Surgery General,Abscess,No Information,Susceptible,No Information,No Information,Resistant
+39014,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Female,0 to 2 Years,2019,Other,Abscess,No Information,Susceptible,No Information,No Information,Susceptible
+39015,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Female,65 to 84 Years,2019,Surgery General,Wound,No Information,Susceptible,No Information,No Information,Resistant
+39016,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Male,19 to 64 Years,2019,Medicine ICU,Endotracheal aspirate,No Information,Susceptible,No Information,No Information,Resistant
+39017,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Female,19 to 64 Years,2019,Surgery General,Wound,No Information,Susceptible,No Information,No Information,Resistant
+39019,32.53299,0.31665,Klebsiella pneumoniae,Enterobacteriaceae,Lugala,Female,19 to 64 Years,2019,Surgery General,Abscess,No Information,Susceptible,Resistant,No Information,Susceptible
+39021,32.53299,0.31665,Klebsiella oxytoca,Enterobacteriaceae,Lugala,Male,19 to 64 Years,2019,Surgery General,Wound,No Information,Susceptible,Resistant,No Information,Susceptible
+39022,32.53299,0.31665,Klebsiella pneumoniae,Enterobacteriaceae,Lugala,Male,19 to 64 Years,2019,Emergency Room,Wound,No Information,Susceptible,Resistant,No Information,Resistant
+39196,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Male,13 to 18 Years,2019,Pediatric General,Wound,No Information,Intermediate,Resistant,No Information,Susceptible
+1046133,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Female,19 to 64 Years,2019,Medicine ICU,Wound,Inpatient,Intermediate,Resistant,No Information,Resistant
+1046134,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Male,19 to 64 Years,2019,Medicine General,Skin: Other,Inpatient,Intermediate,Resistant,No Information,Susceptible
+1046145,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Female,19 to 64 Years,2019,Medicine General,Urine,Inpatient,Intermediate,Resistant,No Information,Susceptible
+1046147,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Female,19 to 64 Years,2019,Medicine General,Urine,Inpatient,Intermediate,Resistant,No Information,No Information
+1046151,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Female,19 to 64 Years,2019,Medicine General,Urine,Inpatient,Intermediate,Resistant,No Information,No Information
+1046152,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Female,19 to 64 Years,2019,Medicine General,Urine,Inpatient,Intermediate,Resistant,No Information,No Information
+1046154,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Male,65 to 84 Years,2019,Medicine General,Urine,Inpatient,Intermediate,Resistant,No Information,No Information
+1046158,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Female,19 to 64 Years,2019,General Unspecified ICU,Skin: Other,Inpatient,Intermediate,Resistant,No Information,No Information
+1046161,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Female,0 to 2 Years,2019,Pediatric General,Wound,Inpatient,Intermediate,Resistant,No Information,No Information
+1046162,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Female,0 to 2 Years,2019,Pediatric ICU,Wound,Inpatient,Intermediate,Resistant,No Information,No Information
+1046164,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Male,65 to 84 Years,2019,Medicine ICU,Skin: Other,Inpatient,Intermediate,Resistant,No Information,No Information
+39191,32.62453,0.33895,Staphylococcus aureus,Staphylococcus spp,Nakawa,Male,19 to 64 Years,2019,Surgery General,Skin: Other,No Information,No Information,No Information,Susceptible,No Information
+39195,32.62453,0.33895,Staphylococcus aureus,Staphylococcus spp,Nakawa,Male,13 to 18 Years,2019,Pediatric General,Wound,No Information,No Information,No Information,Susceptible,Susceptible
+39199,32.62453,0.33895,Staphylococcus aureus,Staphylococcus spp,Nakawa,Male,19 to 64 Years,2019,General Unspecified ICU,Endotracheal aspirate,No Information,No Information,No Information,Resistant,Resistant
+39299,32.62453,0.33895,Staphylococcus sciuri,Staphylococcus spp,Nakawa,Male,19 to 64 Years,2019,Emergency Room,Wound,No Information,No Information,No Information,Resistant,Susceptible
+1046137,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Female,85 and Over,2019,Medicine ICU,Endotracheal aspirate,Inpatient,Resistant,Resistant,No Information,Susceptible
+1046139,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Female,13 to 18 Years,2019,Medicine General,Skin: Other,Inpatient,Resistant,Resistant,No Information,Resistant
+1046141,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Male,19 to 64 Years,2019,Medicine General,Endotracheal aspirate,Inpatient,Resistant,Resistant,No Information,Resistant
+1046153,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Male,65 to 84 Years,2019,General Unspecified ICU,Urine,Inpatient,Resistant,Resistant,No Information,Susceptible
+1046156,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Female,19 to 64 Years,2019,Medicine General,Wound,Inpatient,Resistant,Resistant,No Information,Resistant
+1046157,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Male,19 to 64 Years,2019,Medicine General,Skin: Other,Inpatient,Resistant,Resistant,No Information,Susceptible
+1046159,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Female,65 to 84 Years,2019,Medicine General,Wound,Inpatient,Resistant,Resistant,No Information,Susceptible
+39109,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Female,65 to 84 Years,2019,Medicine General,Wound,No Information,Susceptible,Resistant,No Information,Resistant
+39110,32.62453,0.33895,Klebsiella pneumoniae,Enterobacteriaceae,Nakawa,Female,19 to 64 Years,2019,Surgery General,Wound,No Information,Susceptible,Resistant,No Information,Resistant
+39111,32.62453,0.33895,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Nakawa,Female,19 to 64 Years,2019,Surgery General,Wound,No Information,Susceptible,No Information,No Information,Resistant
+39112,32.62453,0.33895,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Nakawa,Female,3 to 12 Years,2019,Surgery General,Wound,No Information,Susceptible,No Information,No Information,Resistant
+39113,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Male,65 to 84 Years,2019,Medicine ICU,Wound,No Information,Susceptible,Resistant,No Information,Resistant
+39114,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Female,19 to 64 Years,2019,Medicine General,Urine,No Information,Susceptible,Resistant,No Information,Resistant
+39115,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Male,19 to 64 Years,2019,Surgery General,Wound,No Information,Susceptible,Resistant,No Information,Susceptible
+39183,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Female,19 to 64 Years,2019,Other,Urine,No Information,Susceptible,Resistant,No Information,Resistant
+39184,32.62453,0.33895,Klebsiella pneumoniae,Enterobacteriaceae,Nakawa,Male,19 to 64 Years,2019,General Unspecified ICU,Endotracheal aspirate,No Information,Susceptible,Resistant,No Information,Resistant
+39185,32.62453,0.33895,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Nakawa,Male,19 to 64 Years,2019,General Unspecified ICU,Endotracheal aspirate,No Information,Susceptible,No Information,No Information,No Information
+39186,32.62453,0.33895,Enterobacter asburiae,Enterobacteriaceae,Nakawa,Male,19 to 64 Years,2019,General Unspecified ICU,Endotracheal aspirate,No Information,Susceptible,Resistant,No Information,No Information
+39187,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Female,19 to 64 Years,2019,Other,Wound,No Information,Susceptible,Resistant,No Information,No Information
+39188,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Female,13 to 18 Years,2019,Other,Wound,No Information,Susceptible,Resistant,No Information,No Information
+39189,32.62453,0.33895,Acinetobacter baumannii,Non-Enterobacteriaceae,Nakawa,Male,19 to 64 Years,2019,General Unspecified ICU,Endotracheal aspirate,No Information,Susceptible,No Information,No Information,No Information
+39190,32.62453,0.33895,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Nakawa,Male,19 to 64 Years,2019,General Unspecified ICU,Endotracheal aspirate,No Information,Susceptible,No Information,No Information,No Information
+39192,32.62453,0.33895,Klebsiella pneumoniae,Enterobacteriaceae,Nakawa,Male,0 to 2 Years,2019,Pediatric General,Blood,No Information,Susceptible,Resistant,No Information,No Information
+39193,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Male,19 to 64 Years,2019,General Unspecified ICU,Endotracheal aspirate,No Information,Susceptible,Resistant,No Information,No Information
+39194,32.62453,0.33895,Klebsiella pneumoniae,Enterobacteriaceae,Nakawa,Female,3 to 12 Years,2019,Pediatric General,CSF,No Information,Susceptible,Resistant,No Information,No Information
+39197,32.62453,0.33895,Acinetobacter baumannii,Non-Enterobacteriaceae,Nakawa,Male,19 to 64 Years,2019,General Unspecified ICU,Endotracheal aspirate,No Information,Susceptible,No Information,No Information,No Information
+39198,32.62453,0.33895,Klebsiella pneumoniae,Enterobacteriaceae,Nakawa,Male,19 to 64 Years,2019,General Unspecified ICU,Endotracheal aspirate,No Information,Susceptible,Resistant,No Information,No Information
+39200,32.62453,0.33895,Acinetobacter baumannii,Non-Enterobacteriaceae,Nakawa,Female,85 and Over,2019,General Unspecified ICU,Endotracheal aspirate,No Information,Susceptible,No Information,No Information,No Information
+39201,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Female,19 to 64 Years,2019,Medicine General,Wound,No Information,Susceptible,Resistant,No Information,No Information
+39202,32.62453,0.33895,Klebsiella pneumoniae,Enterobacteriaceae,Nakawa,Male,19 to 64 Years,2019,General Unspecified ICU,Endotracheal aspirate,No Information,Susceptible,Resistant,No Information,No Information
+39295,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Male,65 to 84 Years,2019,Surgery General,Wound,No Information,Susceptible,Resistant,No Information,No Information
+39296,32.62453,0.33895,Acinetobacter baumannii,Non-Enterobacteriaceae,Nakawa,Female,19 to 64 Years,2019,Medicine ICU,Endotracheal aspirate,No Information,Susceptible,No Information,No Information,No Information
+39297,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Male,19 to 64 Years,2019,Medicine General,Wound,No Information,Susceptible,Resistant,No Information,No Information
+39298,32.62453,0.33895,Klebsiella pneumoniae,Enterobacteriaceae,Nakawa,Male,19 to 64 Years,2019,Emergency Room,Wound,No Information,Susceptible,Resistant,No Information,No Information
+1046132,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Female,65 to 84 Years,2019,Medicine General,Wound,Inpatient,Susceptible,Resistant,No Information,No Information
+1046135,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Male,19 to 64 Years,2019,Medicine General,Wound,Inpatient,Susceptible,Resistant,No Information,No Information
+1046136,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Female,3 to 12 Years,2019,Pediatric General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1046138,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Male,19 to 64 Years,2019,Surgery General,Skin: Other,Inpatient,Susceptible,Resistant,No Information,No Information
+1046140,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Male,19 to 64 Years,2019,Surgery General,Skin: Other,Inpatient,Susceptible,Resistant,No Information,No Information
+1046142,32.62453,0.33895,Enterobacter cloacae,Enterobacteriaceae,Nakawa,Female,19 to 64 Years,2019,Medicine ICU,Endotracheal aspirate,Inpatient,Susceptible,Resistant,No Information,No Information
+1046143,32.62453,0.33895,Klebsiella pneumoniae,Enterobacteriaceae,Nakawa,Female,19 to 64 Years,2019,Medicine General,Wound,Inpatient,Susceptible,Resistant,No Information,No Information
+1046144,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Male,65 to 84 Years,2019,Medicine General,Gastric Abscess,Inpatient,Susceptible,Resistant,No Information,No Information
+1046146,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Female,19 to 64 Years,2019,Medicine General,Urine,Inpatient,Susceptible,Susceptible,No Information,No Information
+1046148,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Female,19 to 64 Years,2019,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1046149,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Female,19 to 64 Years,2019,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1046155,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Male,19 to 64 Years,2019,General Unspecified ICU,Skin: Other,Inpatient,Susceptible,Resistant,No Information,No Information
+1046160,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Male,3 to 12 Years,2019,Pediatric General,Skin: Other,Inpatient,Susceptible,Resistant,No Information,No Information
+1046163,32.62453,0.33895,Escherichia coli,Enterobacteriaceae,Nakawa,Female,19 to 64 Years,2019,Medicine ICU,Skin: Other,Inpatient,Susceptible,Resistant,No Information,No Information
+1106371,32.56557,0.31704,Escherichia coli,Enterobacteriaceae,Namirembe,Male,19 to 64 Years,2019,Surgery General,Wound,Inpatient,Intermediate,Resistant,No Information,No Information
+1106377,32.56557,0.31704,Escherichia coli,Enterobacteriaceae,Namirembe,Male,65 to 84 Years,2019,Surgery General,Wound,Inpatient,Intermediate,Resistant,No Information,No Information
+1106378,32.56557,0.31704,Escherichia coli,Enterobacteriaceae,Namirembe,Female,65 to 84 Years,2019,Medicine General,Blood,Inpatient,Intermediate,Resistant,No Information,No Information
+1106386,32.56557,0.31704,Escherichia coli,Enterobacteriaceae,Namirembe,Male,0 to 2 Years,2019,Pediatric General,Urine,Inpatient,Intermediate,Resistant,No Information,No Information
+1106387,32.56557,0.31704,Escherichia coli,Enterobacteriaceae,Namirembe,Female,3 to 12 Years,2019,Pediatric General,Urine,Inpatient,Intermediate,Resistant,No Information,No Information
+1106389,32.56557,0.31704,Escherichia coli,Enterobacteriaceae,Namirembe,Male,65 to 84 Years,2019,Medicine General,Urine,Inpatient,Intermediate,Resistant,No Information,No Information
+1106396,32.56557,0.31704,Klebsiella pneumoniae,Enterobacteriaceae,Namirembe,Female,0 to 2 Years,2019,Pediatric ICU,Blood,Inpatient,Intermediate,Resistant,No Information,No Information
+1046256,32.66032,0.34752,Streptococcus pyogenes,Streptococcus spp (no S. pneumo),Bweyogerere,Female,19 to 64 Years,2020,Medicine General,Respiratory: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1046257,32.66032,0.34752,Streptococcus pyogenes,Streptococcus spp (no S. pneumo),Bweyogerere,Male,0 to 2 Years,2020,None Given,Skin: Other,None Given,No Information,No Information,Susceptible,No Information
+1046258,32.66032,0.34752,Streptococcus pyogenes,Streptococcus spp (no S. pneumo),Bweyogerere,Female,19 to 64 Years,2020,Medicine General,Respiratory: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1046260,32.66032,0.34752,Streptococcus pyogenes,Streptococcus spp (no S. pneumo),Bweyogerere,Female,3 to 12 Years,2020,Medicine General,Respiratory: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1046261,32.66032,0.34752,Enterococcus faecalis,Enterococcus spp,Bweyogerere,Male,65 to 84 Years,2020,Medicine ICU,Skin: Other,Inpatient,No Information,Susceptible,Susceptible,No Information
+1046262,32.66032,0.34752,Enterococcus faecalis,Enterococcus spp,Bweyogerere,Female,19 to 64 Years,2020,Medicine General,Urine,Inpatient,No Information,Susceptible,Resistant,No Information
+1046263,32.66032,0.34752,Enterococcus faecalis,Enterococcus spp,Bweyogerere,Female,13 to 18 Years,2020,Pediatric General,Wound,Inpatient,No Information,Susceptible,Resistant,No Information
+1046264,32.66032,0.34752,Enterococcus faecalis,Enterococcus spp,Bweyogerere,Male,19 to 64 Years,2020,Surgery General,Wound,Inpatient,No Information,Susceptible,Resistant,No Information
+1046265,32.66032,0.34752,Enterococcus faecalis,Enterococcus spp,Bweyogerere,Male,65 to 84 Years,2020,None Given,Skin: Other,None Given,No Information,Susceptible,Resistant,No Information
+1046266,32.66032,0.34752,Enterococcus faecalis,Enterococcus spp,Bweyogerere,Male,19 to 64 Years,2020,None Given,Skin: Other,None Given,No Information,Susceptible,Susceptible,No Information
+1046267,32.66032,0.34752,Enterococcus faecalis,Enterococcus spp,Bweyogerere,Male,65 to 84 Years,2020,Medicine General,Urine,Inpatient,No Information,Susceptible,Resistant,No Information
+1046275,32.66032,0.34752,Streptococcus pneumoniae,Streptococcus pneumoniae,Bweyogerere,Female,19 to 64 Years,2020,Medicine General,Skin: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1046276,32.66032,0.34752,Streptococcus pneumoniae,Streptococcus pneumoniae,Bweyogerere,Male,19 to 64 Years,2020,Medicine General,Skin: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1046277,32.66032,0.34752,Streptococcus pneumoniae,Streptococcus pneumoniae,Bweyogerere,Male,19 to 64 Years,2020,Medicine General,Sputum,Inpatient,No Information,No Information,Resistant,No Information
+1046279,32.66032,0.34752,Streptococcus pneumoniae,Streptococcus pneumoniae,Bweyogerere,Male,65 to 84 Years,2020,Medicine ICU,Respiratory: Other,Inpatient,No Information,No Information,Resistant,No Information
+1046280,32.66032,0.34752,Streptococcus pneumoniae,Streptococcus pneumoniae,Bweyogerere,Female,19 to 64 Years,2020,Medicine General,Sputum,Inpatient,No Information,No Information,Susceptible,No Information
+1046281,32.66032,0.34752,Streptococcus pneumoniae,Streptococcus pneumoniae,Bweyogerere,Female,65 to 84 Years,2020,Medicine ICU,Respiratory: Other,Inpatient,No Information,No Information,Resistant,No Information
+1046282,32.66032,0.34752,Streptococcus pneumoniae,Streptococcus pneumoniae,Bweyogerere,Male,3 to 12 Years,2020,Pediatric General,Skin: Other,Inpatient,No Information,No Information,Resistant,No Information
+1046284,32.66032,0.34752,Streptococcus pneumoniae,Streptococcus pneumoniae,Bweyogerere,Male,19 to 64 Years,2020,Medicine General,Bronchoalveolar lavage,Inpatient,No Information,No Information,Resistant,No Information
+1046287,32.66032,0.34752,Streptococcus pneumoniae,Streptococcus pneumoniae,Bweyogerere,Male,19 to 64 Years,2020,Medicine General,Skin: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1046288,32.66032,0.34752,Streptococcus pneumoniae,Streptococcus pneumoniae,Bweyogerere,Male,19 to 64 Years,2020,Medicine General,Skin: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1046289,32.66032,0.34752,Streptococcus pneumoniae,Streptococcus pneumoniae,Bweyogerere,Male,3 to 12 Years,2020,Pediatric General,Skin: Other,Inpatient,No Information,No Information,Resistant,No Information
+1046292,32.66032,0.34752,Streptococcus agalactiae,Streptococcus spp (no S. pneumo),Bweyogerere,Female,0 to 2 Years,2020,Medicine General,Skin: Other,Inpatient,No Information,No Information,Resistant,No Information
+1046293,32.66032,0.34752,Streptococcus agalactiae,Streptococcus spp (no S. pneumo),Bweyogerere,Female,19 to 64 Years,2020,Medicine General,Skin: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1058907,32.66032,0.34752,Staphylococcus aureus,Staphylococcus spp,Bweyogerere,Male,19 to 64 Years,2020,Surgery ICU,Respiratory: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1058908,32.66032,0.34752,Staphylococcus aureus,Staphylococcus spp,Bweyogerere,Female,19 to 64 Years,2020,Medicine General,Skin: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1058909,32.66032,0.34752,Staphylococcus aureus,Staphylococcus spp,Bweyogerere,Female,19 to 64 Years,2020,Medicine ICU,Respiratory: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1058910,32.66032,0.34752,Staphylococcus aureus,Staphylococcus spp,Bweyogerere,Female,19 to 64 Years,2020,Medicine General,Wound,Inpatient,No Information,No Information,Resistant,No Information
+1058911,32.66032,0.34752,Staphylococcus aureus,Staphylococcus spp,Bweyogerere,Male,13 to 18 Years,2020,Medicine General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1058912,32.66032,0.34752,Staphylococcus aureus,Staphylococcus spp,Bweyogerere,Male,3 to 12 Years,2020,Medicine General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1058913,32.66032,0.34752,Staphylococcus aureus,Staphylococcus spp,Bweyogerere,Female,19 to 64 Years,2020,Medicine General,Respiratory: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1058914,32.66032,0.34752,Staphylococcus aureus,Staphylococcus spp,Bweyogerere,Female,3 to 12 Years,2020,Pediatric General,Wound,Inpatient,No Information,No Information,Resistant,No Information
+1058915,32.66032,0.34752,Staphylococcus aureus,Staphylococcus spp,Bweyogerere,Male,3 to 12 Years,2020,Pediatric General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1058916,32.66032,0.34752,Staphylococcus aureus,Staphylococcus spp,Bweyogerere,Male,3 to 12 Years,2020,Pediatric General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1058934,32.66032,0.34752,Streptococcus agalactiae,Streptococcus spp (no S. pneumo),Bweyogerere,Male,19 to 64 Years,2020,Medicine ICU,Skin: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1058936,32.66032,0.34752,Staphylococcus aureus,Staphylococcus spp,Bweyogerere,Male,0 to 2 Years,2020,Pediatric General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1058937,32.66032,0.34752,Staphylococcus aureus,Staphylococcus spp,Bweyogerere,Female,19 to 64 Years,2020,Surgery General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1058938,32.66032,0.34752,Staphylococcus aureus,Staphylococcus spp,Bweyogerere,Male,19 to 64 Years,2020,Surgery General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1058939,32.66032,0.34752,Staphylococcus haemolyticus,Staphylococcus spp,Bweyogerere,Male,19 to 64 Years,2020,None Given,Intestinal: Other,None Given,No Information,No Information,Resistant,No Information
+1058942,32.66032,0.34752,Staphylococcus aureus,Staphylococcus spp,Bweyogerere,Female,19 to 64 Years,2020,Surgery ICU,Wound,Inpatient,No Information,No Information,Resistant,No Information
+1058943,32.66032,0.34752,Staphylococcus aureus,Staphylococcus spp,Bweyogerere,Male,19 to 64 Years,2020,Surgery ICU,Skin: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1058945,32.66032,0.34752,Staphylococcus aureus,Staphylococcus spp,Bweyogerere,Female,19 to 64 Years,2020,Medicine General,Wound,Inpatient,No Information,No Information,Resistant,No Information
+1046296,32.66032,0.34752,Proteus mirabilis,Enterobacteriaceae,Bweyogerere,Female,19 to 64 Years,2020,Medicine General,Urine,Inpatient,Resistant,Resistant,No Information,No Information
+1058874,32.66032,0.34752,Acinetobacter baumannii,Non-Enterobacteriaceae,Bweyogerere,Male,65 to 84 Years,2020,Medicine ICU,Urine,Inpatient,Resistant,No Information,No Information,No Information
+1058875,32.66032,0.34752,Acinetobacter baumannii,Non-Enterobacteriaceae,Bweyogerere,Female,19 to 64 Years,2020,Medicine ICU,Respiratory: Other,Inpatient,Resistant,No Information,No Information,No Information
+1058877,32.66032,0.34752,Acinetobacter baumannii,Non-Enterobacteriaceae,Bweyogerere,Female,65 to 84 Years,2020,Surgery General,Wound,Inpatient,Resistant,No Information,No Information,No Information
+1058880,32.66032,0.34752,Enterobacter asburiae,Enterobacteriaceae,Bweyogerere,Female,19 to 64 Years,2020,Medicine General,Intestinal: Other,Inpatient,Resistant,Resistant,No Information,No Information
+1058885,32.66032,0.34752,Escherichia coli,Enterobacteriaceae,Bweyogerere,Male,19 to 64 Years,2020,Medicine ICU,Respiratory: Other,Inpatient,Resistant,Resistant,No Information,No Information
+1058886,32.66032,0.34752,Proteus vulgaris,Enterobacteriaceae,Bweyogerere,Male,0 to 2 Years,2020,Pediatric General,Urine,Inpatient,Resistant,Resistant,No Information,No Information
+1058889,32.66032,0.34752,Morganella morganii,Enterobacteriaceae,Bweyogerere,Male,3 to 12 Years,2020,Pediatric General,Urine,Inpatient,Resistant,Resistant,No Information,No Information
+1058895,32.66032,0.34752,Klebsiella pneumoniae,Enterobacteriaceae,Bweyogerere,Male,19 to 64 Years,2020,Surgery ICU,Respiratory: Other,Inpatient,Resistant,Resistant,No Information,No Information
+1058921,32.66032,0.34752,Escherichia coli,Enterobacteriaceae,Bweyogerere,Female,19 to 64 Years,2020,Medicine General,Urine,Inpatient,Resistant,Resistant,No Information,No Information
+1058928,32.66032,0.34752,Escherichia coli,Enterobacteriaceae,Bweyogerere,Female,19 to 64 Years,2020,Surgery General,Burn,Inpatient,Resistant,Resistant,No Information,No Information
+1058940,32.66032,0.34752,Escherichia coli,Enterobacteriaceae,Bweyogerere,Male,65 to 84 Years,2020,Surgery General,Intestinal: Other,Inpatient,Resistant,Resistant,No Information,No Information
+1058941,32.66032,0.34752,Escherichia coli,Enterobacteriaceae,Bweyogerere,Male,65 to 84 Years,2020,Surgery General,Abscess,Inpatient,Resistant,Resistant,No Information,No Information
+1046242,32.66032,0.34752,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Bweyogerere,Female,19 to 64 Years,2020,Surgery General,Intestinal: Other,Inpatient,Susceptible,No Information,No Information,No Information
+1046245,32.66032,0.34752,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Bweyogerere,Male,85 and Over,2020,Medicine General,Urine,Inpatient,Susceptible,No Information,No Information,No Information
+1046246,32.66032,0.34752,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Bweyogerere,Male,19 to 64 Years,2020,Medicine General,Skin: Other,Inpatient,Susceptible,No Information,No Information,No Information
+1046250,32.66032,0.34752,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Bweyogerere,Male,65 to 84 Years,2020,Surgery ICU,Wound,Inpatient,Susceptible,No Information,No Information,No Information
+1046251,32.66032,0.34752,Klebsiella pneumoniae,Enterobacteriaceae,Bweyogerere,Female,19 to 64 Years,2020,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1046268,32.66032,0.34752,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Bweyogerere,Male,19 to 64 Years,2020,Other,Skin: Other,None Given,Susceptible,No Information,No Information,No Information
+1046269,32.66032,0.34752,Klebsiella oxytoca,Enterobacteriaceae,Bweyogerere,Female,19 to 64 Years,2020,Medicine ICU,Respiratory: Other,Inpatient,Susceptible,Resistant,No Information,No Information
+1046270,32.66032,0.34752,Klebsiella oxytoca,Enterobacteriaceae,Bweyogerere,Male,19 to 64 Years,2020,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1046271,32.66032,0.34752,Klebsiella oxytoca,Enterobacteriaceae,Bweyogerere,Male,13 to 18 Years,2020,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1046272,32.66032,0.34752,Klebsiella oxytoca,Enterobacteriaceae,Bweyogerere,Female,19 to 64 Years,2020,Medicine General,Skin: Other,Inpatient,Susceptible,Intermediate,No Information,No Information
+1046294,32.66032,0.34752,Proteus mirabilis,Enterobacteriaceae,Bweyogerere,Female,19 to 64 Years,2020,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1046297,32.66032,0.34752,Proteus vulgaris,Enterobacteriaceae,Bweyogerere,Female,65 to 84 Years,2020,Surgery General,Abscess,Inpatient,Susceptible,Resistant,No Information,No Information
+1058876,32.66032,0.34752,Acinetobacter nosocomialis,Non-Enterobacteriaceae,Bweyogerere,Female,19 to 64 Years,2020,Surgery ICU,Respiratory: Other,Inpatient,Susceptible,No Information,No Information,No Information
+1058878,32.66032,0.34752,Enterobacter cloacae,Enterobacteriaceae,Bweyogerere,Male,19 to 64 Years,2020,Medicine General,Intestinal: Other,Inpatient,Susceptible,Resistant,No Information,No Information
+1058879,32.66032,0.34752,Acinetobacter baumannii,Non-Enterobacteriaceae,Bweyogerere,Female,19 to 64 Years,2020,Surgery ICU,Respiratory: Other,Inpatient,Susceptible,No Information,No Information,No Information
+1058881,32.66032,0.34752,Enterobacter cloacae,Enterobacteriaceae,Bweyogerere,Female,19 to 64 Years,2020,Medicine General,Respiratory: Other,Inpatient,Susceptible,Resistant,No Information,No Information
+1058882,32.66032,0.34752,Enterobacter cloacae,Enterobacteriaceae,Bweyogerere,Female,19 to 64 Years,2020,Surgery ICU,Respiratory: Other,Inpatient,Susceptible,Resistant,No Information,No Information
+1058883,32.66032,0.34752,Enterobacter cloacae,Enterobacteriaceae,Bweyogerere,Female,19 to 64 Years,2020,Surgery ICU,Respiratory: Other,Inpatient,Susceptible,Resistant,No Information,No Information
+1058887,32.66032,0.34752,Morganella morganii,Enterobacteriaceae,Bweyogerere,Female,19 to 64 Years,2020,Surgery General,Intestinal: Other,Inpatient,Susceptible,Resistant,No Information,No Information
+1058888,32.66032,0.34752,Morganella morganii,Enterobacteriaceae,Bweyogerere,Male,19 to 64 Years,2020,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1058892,32.66032,0.34752,Morganella morganii,Enterobacteriaceae,Bweyogerere,Female,19 to 64 Years,2020,Surgery General,Skin: Other,Inpatient,Susceptible,Resistant,No Information,No Information
+1058893,32.66032,0.34752,Klebsiella pneumoniae,Enterobacteriaceae,Bweyogerere,Male,19 to 64 Years,2020,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1058896,32.66032,0.34752,Klebsiella pneumoniae,Enterobacteriaceae,Bweyogerere,Male,3 to 12 Years,2020,Pediatric General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1058897,32.66032,0.34752,Klebsiella pneumoniae,Enterobacteriaceae,Bweyogerere,Female,85 and Over,2020,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1058898,32.66032,0.34752,Klebsiella pneumoniae,Enterobacteriaceae,Bweyogerere,Male,19 to 64 Years,2020,Medicine General,Sputum,Inpatient,Susceptible,Resistant,No Information,No Information
+1058900,32.66032,0.34752,Klebsiella pneumoniae,Enterobacteriaceae,Bweyogerere,Male,19 to 64 Years,2020,Surgery General,Skin: Other,Inpatient,Susceptible,Resistant,No Information,No Information
+1058901,32.66032,0.34752,Klebsiella pneumoniae,Enterobacteriaceae,Bweyogerere,Male,65 to 84 Years,2020,Medicine General,Skin: Other,Inpatient,Susceptible,Resistant,No Information,No Information
+1058902,32.66032,0.34752,Klebsiella oxytoca,Enterobacteriaceae,Bweyogerere,Male,19 to 64 Years,2020,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1058903,32.66032,0.34752,Klebsiella oxytoca,Enterobacteriaceae,Bweyogerere,Female,19 to 64 Years,2020,Medicine ICU,Respiratory: Other,Inpatient,Susceptible,Resistant,No Information,No Information
+1058904,32.66032,0.34752,Klebsiella pneumoniae,Enterobacteriaceae,Bweyogerere,Male,19 to 64 Years,2020,None Given,Wound,None Given,Susceptible,Intermediate,No Information,No Information
+1058905,32.66032,0.34752,Klebsiella oxytoca,Enterobacteriaceae,Bweyogerere,Female,85 and Over,2020,Surgery General,Wound,Inpatient,Susceptible,Resistant,No Information,No Information
+1058906,32.66032,0.34752,Klebsiella oxytoca,Enterobacteriaceae,Bweyogerere,Male,13 to 18 Years,2020,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1058917,32.66032,0.34752,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Bweyogerere,Male,85 and Over,2020,None Given,None Given,None Given,Susceptible,No Information,No Information,No Information
+1058922,32.66032,0.34752,Escherichia coli,Enterobacteriaceae,Bweyogerere,Female,19 to 64 Years,2020,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1058923,32.66032,0.34752,Escherichia coli,Enterobacteriaceae,Bweyogerere,Female,19 to 64 Years,2020,Medicine General,Wound,Inpatient,Susceptible,Resistant,No Information,No Information
+1058924,32.66032,0.34752,Escherichia coli,Enterobacteriaceae,Bweyogerere,Female,19 to 64 Years,2020,Medicine ICU,Wound,Inpatient,Susceptible,Resistant,No Information,No Information
+1058925,32.66032,0.34752,Escherichia coli,Enterobacteriaceae,Bweyogerere,Female,19 to 64 Years,2020,Medicine ICU,Abscess,Inpatient,Susceptible,Resistant,No Information,No Information
+1058927,32.66032,0.34752,Escherichia coli,Enterobacteriaceae,Bweyogerere,Female,65 to 84 Years,2020,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1058930,32.66032,0.34752,Escherichia coli,Enterobacteriaceae,Bweyogerere,Female,19 to 64 Years,2020,Surgery General,Wound,Inpatient,Susceptible,Resistant,No Information,No Information
+1058931,32.66032,0.34752,Klebsiella pneumoniae,Enterobacteriaceae,Bweyogerere,Female,19 to 64 Years,2020,Medicine General,Wound,Inpatient,Susceptible,Resistant,No Information,No Information
+1058932,32.66032,0.34752,Klebsiella pneumoniae,Enterobacteriaceae,Bweyogerere,Male,13 to 18 Years,2020,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1147316,32.53299,0.31665,Escherichia coli,Enterobacteriaceae,Lugala,Female,19 to 64 Years,2020,Other,Urine,None Given,Intermediate,Resistant,No Information,No Information
+1147318,32.53299,0.31665,Proteus mirabilis,Enterobacteriaceae,Lugala,Male,0 to 2 Years,2020,Pediatric General,Urine,Inpatient,Intermediate,Resistant,No Information,No Information
+1147341,32.53299,0.31665,Proteus mirabilis,Enterobacteriaceae,Lugala,Female,65 to 84 Years,2020,Other,Wound,None Given,Intermediate,Susceptible,No Information,No Information
+1106489,32.53299,0.31665,Haemophilus influenzae,Haemophilus spp,Lugala,Male,19 to 64 Years,2020,Surgery General,Skin: Other,Inpatient,No Information,Susceptible,No Information,No Information
+1106490,32.53299,0.31665,Haemophilus influenzae,Haemophilus spp,Lugala,Male,19 to 64 Years,2020,Medicine General,Intestinal: Other,Inpatient,No Information,Susceptible,No Information,No Information
+1106491,32.53299,0.31665,Haemophilus parainfluenzae,Haemophilus spp,Lugala,Male,19 to 64 Years,2020,Medicine General,Sputum,Inpatient,No Information,Susceptible,No Information,No Information
+1106492,32.53299,0.31665,Haemophilus parainfluenzae,Haemophilus spp,Lugala,Female,3 to 12 Years,2020,Pediatric General,Sputum,Inpatient,No Information,Susceptible,No Information,No Information
+1106531,32.53299,0.31665,Streptococcus pneumoniae,Streptococcus pneumoniae,Lugala,Male,65 to 84 Years,2020,Medicine General,Sputum,Inpatient,No Information,No Information,Resistant,No Information
+1106533,32.53299,0.31665,Streptococcus pneumoniae,Streptococcus pneumoniae,Lugala,Male,19 to 64 Years,2020,Medicine General,Bronchus,Inpatient,No Information,No Information,Resistant,No Information
+1106535,32.53299,0.31665,Streptococcus pneumoniae,Streptococcus pneumoniae,Lugala,Male,19 to 64 Years,2020,Medicine General,Sputum,Inpatient,No Information,No Information,Susceptible,No Information
+1106536,32.53299,0.31665,Streptococcus pneumoniae,Streptococcus pneumoniae,Lugala,Female,85 and Over,2020,Medicine ICU,Sputum,Inpatient,No Information,No Information,Resistant,No Information
+1106540,32.53299,0.31665,Streptococcus pneumoniae,Streptococcus pneumoniae,Lugala,Female,19 to 64 Years,2020,Medicine ICU,Intestinal: Other,Inpatient,No Information,No Information,Resistant,No Information
+1106541,32.53299,0.31665,Streptococcus pneumoniae,Streptococcus pneumoniae,Lugala,Female,19 to 64 Years,2020,Medicine ICU,Respiratory: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1106543,32.53299,0.31665,Streptococcus pneumoniae,Streptococcus pneumoniae,Lugala,Female,19 to 64 Years,2020,Surgery General,Blood,Inpatient,No Information,No Information,Susceptible,No Information
+1106544,32.53299,0.31665,Streptococcus pneumoniae,Streptococcus pneumoniae,Lugala,Female,3 to 12 Years,2020,Pediatric ICU,Blood,Inpatient,No Information,No Information,Susceptible,No Information
+1106545,32.53299,0.31665,Streptococcus pneumoniae,Streptococcus pneumoniae,Lugala,Male,19 to 64 Years,2020,Medicine General,Blood,Inpatient,No Information,No Information,Susceptible,No Information
+1106546,32.53299,0.31665,Streptococcus pneumoniae,Streptococcus pneumoniae,Lugala,Female,85 and Over,2020,Medicine ICU,Blood,Inpatient,No Information,No Information,Susceptible,No Information
+1106547,32.53299,0.31665,Streptococcus pneumoniae,Streptococcus pneumoniae,Lugala,Male,3 to 12 Years,2020,Pediatric ICU,Sputum,Inpatient,No Information,No Information,Susceptible,No Information
+1106548,32.53299,0.31665,Streptococcus pneumoniae,Streptococcus pneumoniae,Lugala,Male,19 to 64 Years,2020,Medicine General,Sputum,Inpatient,No Information,No Information,Susceptible,No Information
+1106549,32.53299,0.31665,Streptococcus pneumoniae,Streptococcus pneumoniae,Lugala,Male,3 to 12 Years,2020,Pediatric General,Blood,Inpatient,No Information,No Information,Susceptible,No Information
+1106551,32.53299,0.31665,Streptococcus pneumoniae,Streptococcus pneumoniae,Lugala,Female,19 to 64 Years,2020,Surgery General,Blood,Inpatient,No Information,No Information,Susceptible,No Information
+1106553,32.53299,0.31665,Streptococcus pneumoniae,Streptococcus pneumoniae,Lugala,Female,19 to 64 Years,2020,Medicine General,Sputum,Inpatient,No Information,No Information,Resistant,No Information
+1106554,32.53299,0.31665,Streptococcus pneumoniae,Streptococcus pneumoniae,Lugala,Male,65 to 84 Years,2020,Emergency Room,Sputum,Outpatient,No Information,No Information,Resistant,No Information
+1106555,32.53299,0.31665,Streptococcus pneumoniae,Streptococcus pneumoniae,Lugala,Male,19 to 64 Years,2020,Medicine General,Sputum,Inpatient,No Information,No Information,Resistant,No Information
+1106557,32.53299,0.31665,Streptococcus pneumoniae,Streptococcus pneumoniae,Lugala,Female,0 to 2 Years,2020,Pediatric ICU,Skin: Other,Inpatient,No Information,No Information,Resistant,No Information
+1106560,32.53299,0.31665,Streptococcus pneumoniae,Streptococcus pneumoniae,Lugala,Male,19 to 64 Years,2020,Surgery ICU,Blood,Inpatient,No Information,No Information,Susceptible,No Information
+1106561,32.53299,0.31665,Streptococcus pneumoniae,Streptococcus pneumoniae,Lugala,Male,19 to 64 Years,2020,Medicine General,Bronchoalveolar lavage,Inpatient,No Information,No Information,Resistant,No Information
+1106562,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Male,19 to 64 Years,2020,Surgery General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1106563,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Male,3 to 12 Years,2020,Pediatric General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1106564,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Male,19 to 64 Years,2020,Surgery General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1106565,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Male,19 to 64 Years,2020,Surgery General,Gastric Abscess,Inpatient,No Information,No Information,Resistant,No Information
+1106566,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Male,19 to 64 Years,2020,Medicine ICU,Blood,Inpatient,No Information,No Information,Susceptible,No Information
+1106567,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Male,19 to 64 Years,2020,Surgery ICU,Wound,Inpatient,No Information,No Information,Resistant,No Information
+1106568,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Male,19 to 64 Years,2020,Surgery General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1106569,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Female,19 to 64 Years,2020,Surgery ICU,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1106570,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Male,19 to 64 Years,2020,Surgery General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1106571,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Male,19 to 64 Years,2020,Surgery General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1106572,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Male,19 to 64 Years,2020,Surgery General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1106573,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Male,19 to 64 Years,2020,Surgery ICU,Gastric Abscess,Inpatient,No Information,No Information,Susceptible,No Information
+1106574,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Male,19 to 64 Years,2020,Medicine ICU,Blood,Inpatient,No Information,No Information,Susceptible,No Information
+1106575,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Female,19 to 64 Years,2020,Surgery General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1106576,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Male,3 to 12 Years,2020,Pediatric General,Abscess,Inpatient,No Information,No Information,Susceptible,No Information
+1106577,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Female,19 to 64 Years,2020,Surgery General,Abscess,Inpatient,No Information,No Information,Susceptible,No Information
+1106578,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Female,3 to 12 Years,2020,Pediatric General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1106579,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Female,3 to 12 Years,2020,Pediatric General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1106580,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Female,19 to 64 Years,2020,Surgery General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1106581,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Female,13 to 18 Years,2020,Surgery General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1106582,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Female,19 to 64 Years,2020,Surgery General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1106583,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Male,19 to 64 Years,2020,Surgery General,Wound,Inpatient,No Information,No Information,Resistant,No Information
+1106584,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Male,3 to 12 Years,2020,Pediatric General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1106585,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Female,19 to 64 Years,2020,Medicine General,Urine,Inpatient,No Information,No Information,Susceptible,No Information
+1106586,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Female,65 to 84 Years,2020,Surgery General,Gastric Abscess,Inpatient,No Information,No Information,Susceptible,No Information
+1106587,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Female,85 and Over,2020,Medicine ICU,Blood,Inpatient,No Information,No Information,Susceptible,No Information
+1106588,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Female,19 to 64 Years,2020,Surgery General,Burn,Inpatient,No Information,No Information,Resistant,No Information
+1106589,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Male,19 to 64 Years,2020,Surgery General,Abscess,Inpatient,No Information,No Information,Susceptible,No Information
+1106590,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Female,19 to 64 Years,2020,Surgery General,Gastric Abscess,Inpatient,No Information,No Information,Susceptible,No Information
+1106591,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Female,0 to 2 Years,2020,Pediatric General,Skin: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1106592,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Male,0 to 2 Years,2020,Pediatric General,Urine,Inpatient,No Information,No Information,Susceptible,No Information
+1106593,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Male,19 to 64 Years,2020,Surgery General,Burn,Inpatient,No Information,No Information,Susceptible,No Information
+1106594,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Female,19 to 64 Years,2020,Surgery General,Ulcer,Inpatient,No Information,No Information,Susceptible,No Information
+1106596,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Female,19 to 64 Years,2020,Medicine ICU,Urine,Inpatient,No Information,No Information,Susceptible,No Information
+1106597,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Female,19 to 64 Years,2020,Medicine ICU,Blood,Inpatient,No Information,No Information,Susceptible,No Information
+1106598,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Male,19 to 64 Years,2020,Medicine ICU,Urine,Inpatient,No Information,No Information,Susceptible,No Information
+1106599,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Male,19 to 64 Years,2020,Surgery General,Wound,Inpatient,No Information,No Information,Resistant,No Information
+1106600,32.53299,0.31665,Staphylococcus capitis,Staphylococcus spp,Lugala,Male,65 to 84 Years,2020,Medicine ICU,Blood,Inpatient,No Information,No Information,Susceptible,No Information
+1106601,32.53299,0.31665,Staphylococcus epidermidis,Staphylococcus spp,Lugala,Male,65 to 84 Years,2020,Medicine ICU,Blood,Inpatient,No Information,No Information,Resistant,No Information
+1106602,32.53299,0.31665,Staphylococcus epidermidis,Staphylococcus spp,Lugala,Female,0 to 2 Years,2020,Pediatric ICU,Blood,Inpatient,No Information,No Information,Resistant,No Information
+1106603,32.53299,0.31665,Staphylococcus hominis,Staphylococcus spp,Lugala,Female,0 to 2 Years,2020,Pediatric ICU,Blood,Inpatient,No Information,No Information,Resistant,No Information
+1106604,32.53299,0.31665,Staphylococcus epidermidis,Staphylococcus spp,Lugala,Male,3 to 12 Years,2020,Pediatric ICU,Blood,Inpatient,No Information,No Information,Resistant,No Information
+1106605,32.53299,0.31665,Staphylococcus saprophyticus,Staphylococcus spp,Lugala,Male,3 to 12 Years,2020,Pediatric General,Urine,Inpatient,No Information,No Information,Susceptible,No Information
+1106606,32.53299,0.31665,Staphylococcus epidermidis,Staphylococcus spp,Lugala,Male,19 to 64 Years,2020,Medicine ICU,Blood,Inpatient,No Information,No Information,Susceptible,No Information
+1106607,32.53299,0.31665,Staphylococcus epidermidis,Staphylococcus spp,Lugala,Female,65 to 84 Years,2020,Surgery General,Peritoneal Fluid,Inpatient,No Information,No Information,Resistant,No Information
+1106608,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Female,19 to 64 Years,2020,Medicine ICU,Urine,Inpatient,No Information,No Information,Susceptible,No Information
+1106609,32.53299,0.31665,Staphylococcus epidermidis,Staphylococcus spp,Lugala,Female,0 to 2 Years,2020,Pediatric ICU,Skin: Other,Inpatient,No Information,No Information,Resistant,No Information
+1106610,32.53299,0.31665,Staphylococcus epidermidis,Staphylococcus spp,Lugala,Male,0 to 2 Years,2020,Pediatric ICU,Blood,Inpatient,No Information,No Information,Resistant,No Information
+1106611,32.53299,0.31665,Staphylococcus aureus,Staphylococcus spp,Lugala,Female,19 to 64 Years,2020,Emergency Room,Urine,Outpatient,No Information,No Information,Resistant,No Information
+1106612,32.53299,0.31665,Staphylococcus haemolyticus,Staphylococcus spp,Lugala,Female,19 to 64 Years,2020,Emergency Room,Urine,Outpatient,No Information,No Information,Susceptible,No Information
+1106613,32.53299,0.31665,Staphylococcus epidermidis,Staphylococcus spp,Lugala,Female,19 to 64 Years,2020,Medicine General,Intestinal: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1106614,32.53299,0.31665,Staphylococcus hominis,Staphylococcus spp,Lugala,Female,3 to 12 Years,2020,Pediatric ICU,Blood,Inpatient,No Information,No Information,Resistant,No Information
+1106615,32.53299,0.31665,Staphylococcus epidermidis,Staphylococcus spp,Lugala,Male,19 to 64 Years,2020,Medicine ICU,Blood,Inpatient,No Information,No Information,Resistant,No Information
+1106616,32.53299,0.31665,Staphylococcus epidermidis,Staphylococcus spp,Lugala,Female,19 to 64 Years,2020,Medicine General,Urine,Inpatient,No Information,No Information,Susceptible,No Information
+1106617,32.53299,0.31665,Staphylococcus epidermidis,Staphylococcus spp,Lugala,Male,19 to 64 Years,2020,Surgery General,Blood,Inpatient,No Information,No Information,Resistant,No Information
+1106618,32.53299,0.31665,Staphylococcus epidermidis,Staphylococcus spp,Lugala,Male,65 to 84 Years,2020,Medicine ICU,Blood,Inpatient,No Information,No Information,Resistant,No Information
+1106619,32.53299,0.31665,Staphylococcus epidermidis,Staphylococcus spp,Lugala,Female,19 to 64 Years,2020,Medicine General,Urine,Inpatient,No Information,No Information,Resistant,No Information
+1106621,32.53299,0.31665,Streptococcus pyogenes,Streptococcus spp (no S. pneumo),Lugala,Male,19 to 64 Years,2020,Medicine General,Respiratory: Other,Inpatient,No Information,No Information,Resistant,No Information
+1106622,32.53299,0.31665,Streptococcus pyogenes,Streptococcus spp (no S. pneumo),Lugala,Male,13 to 18 Years,2020,Medicine General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1106623,32.53299,0.31665,Streptococcus pyogenes,Streptococcus spp (no S. pneumo),Lugala,Male,3 to 12 Years,2020,Surgery General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1106624,32.53299,0.31665,Streptococcus pyogenes,Streptococcus spp (no S. pneumo),Lugala,Female,19 to 64 Years,2020,Medicine General,Respiratory: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1106625,32.53299,0.31665,Streptococcus pyogenes,Streptococcus spp (no S. pneumo),Lugala,Female,13 to 18 Years,2020,Pediatric General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1106626,32.53299,0.31665,Streptococcus pyogenes,Streptococcus spp (no S. pneumo),Lugala,Male,3 to 12 Years,2020,Pediatric General,Respiratory: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1106627,32.53299,0.31665,Streptococcus pyogenes,Streptococcus spp (no S. pneumo),Lugala,Male,13 to 18 Years,2020,Pediatric General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1106628,32.53299,0.31665,Streptococcus pyogenes,Streptococcus spp (no S. pneumo),Lugala,Male,3 to 12 Years,2020,Pediatric General,Respiratory: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1106629,32.53299,0.31665,Streptococcus pyogenes,Streptococcus spp (no S. pneumo),Lugala,Female,19 to 64 Years,2020,Medicine ICU,Blood,Inpatient,No Information,No Information,Susceptible,No Information
+1106630,32.53299,0.31665,Streptococcus pyogenes,Streptococcus spp (no S. pneumo),Lugala,Female,3 to 12 Years,2020,Pediatric General,Respiratory: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1106632,32.53299,0.31665,Streptococcus pyogenes,Streptococcus spp (no S. pneumo),Lugala,Female,19 to 64 Years,2020,Medicine General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1106633,32.53299,0.31665,Enterococcus faecalis,Enterococcus spp,Lugala,Female,19 to 64 Years,2020,Medicine General,Urine,Inpatient,No Information,Susceptible,Intermediate,No Information
+1106634,32.53299,0.31665,Enterococcus faecalis,Enterococcus spp,Lugala,Female,19 to 64 Years,2020,Medicine General,Wound,Inpatient,No Information,Susceptible,Resistant,No Information
+1106635,32.53299,0.31665,Enterococcus faecalis,Enterococcus spp,Lugala,Female,85 and Over,2020,Emergency Room,Blood,Outpatient,No Information,Susceptible,Intermediate,No Information
+1106636,32.53299,0.31665,Enterococcus faecalis,Enterococcus spp,Lugala,Male,3 to 12 Years,2020,Medicine General,Urine,Inpatient,No Information,Susceptible,Resistant,No Information
+1106637,32.53299,0.31665,Enterococcus faecalis,Enterococcus spp,Lugala,Female,65 to 84 Years,2020,Medicine General,Urine,Inpatient,No Information,Susceptible,Resistant,No Information
+1106638,32.53299,0.31665,Enterococcus faecium,Enterococcus spp,Lugala,Female,65 to 84 Years,2020,Medicine General,Blood,Inpatient,No Information,Resistant,Resistant,No Information
+1106639,32.53299,0.31665,Enterococcus faecalis,Enterococcus spp,Lugala,Male,65 to 84 Years,2020,Medicine General,Wound,Inpatient,No Information,Susceptible,Resistant,No Information
+1106640,32.53299,0.31665,Enterococcus faecalis,Enterococcus spp,Lugala,Female,85 and Over,2020,Medicine ICU,Blood,Inpatient,No Information,Susceptible,Intermediate,No Information
+1106642,32.53299,0.31665,Enterococcus faecium,Enterococcus spp,Lugala,Female,85 and Over,2020,Medicine ICU,Wound,Inpatient,No Information,Resistant,Resistant,No Information
+1106643,32.53299,0.31665,Enterococcus faecium,Enterococcus spp,Lugala,Female,19 to 64 Years,2020,Medicine ICU,Peritoneal Fluid,Inpatient,No Information,Resistant,Resistant,No Information
+1106645,32.53299,0.31665,Streptococcus agalactiae,Streptococcus spp (no S. pneumo),Lugala,Female,19 to 64 Years,2020,Medicine General,Genitourinary: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1106646,32.53299,0.31665,Streptococcus agalactiae,Streptococcus spp (no S. pneumo),Lugala,Female,19 to 64 Years,2020,Medicine General,Genitourinary: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1106647,32.53299,0.31665,Streptococcus agalactiae,Streptococcus spp (no S. pneumo),Lugala,Female,19 to 64 Years,2020,Medicine General,Urine,Inpatient,No Information,No Information,Resistant,No Information
+1106648,32.53299,0.31665,Streptococcus pneumoniae,Streptococcus pneumoniae,Lugala,Female,19 to 64 Years,2020,Medicine General,Sputum,Inpatient,No Information,No Information,Susceptible,No Information
+1106437,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Female,19 to 64 Years,2020,Surgery ICU,Respiratory: Other,Inpatient,Resistant,No Information,No Information,No Information
+1106443,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Female,65 to 84 Years,2020,Medicine ICU,Urine,Inpatient,Resistant,No Information,No Information,No Information
+1106472,32.53299,0.31665,Enterobacter cloacae,Enterobacteriaceae,Lugala,Female,19 to 64 Years,2020,Medicine ICU,Gastric Abscess,Inpatient,Resistant,Resistant,No Information,No Information
+1106493,32.53299,0.31665,Acinetobacter baumannii,Non-Enterobacteriaceae,Lugala,Male,19 to 64 Years,2020,Medicine ICU,Respiratory: Other,Inpatient,Resistant,No Information,No Information,No Information
+1058946,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Female,19 to 64 Years,2020,Surgery ICU,Skin: Other,Inpatient,No Information,No Information,Resistant,No Information
+1058947,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Male,19 to 64 Years,2020,Medicine ICU,Wound,Inpatient,No Information,No Information,Resistant,No Information
+1058948,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Female,19 to 64 Years,2020,Medicine General,Wound,Inpatient,No Information,No Information,Resistant,No Information
+1058949,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Female,19 to 64 Years,2020,Surgery ICU,Skin: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1058951,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Male,19 to 64 Years,2020,Medicine ICU,Wound,Inpatient,No Information,No Information,Resistant,No Information
+1058952,32.56557,0.31704,Staphylococcus hominis,Staphylococcus spp,Namirembe,Female,0 to 2 Years,2020,Pediatric General,Skin: Other,Inpatient,No Information,No Information,Resistant,No Information
+1058953,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Male,19 to 64 Years,2020,None Given,Wound,None Given,No Information,No Information,Resistant,No Information
+1058954,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Female,65 to 84 Years,2020,None Given,Skin: Other,None Given,No Information,No Information,Resistant,No Information
+1058956,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Female,19 to 64 Years,2020,Surgery General,Wound,Inpatient,No Information,No Information,Resistant,No Information
+1058957,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Male,13 to 18 Years,2020,Medicine General,Skin: Other,Inpatient,No Information,No Information,Resistant,No Information
+1058958,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Female,19 to 64 Years,2020,Medicine General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1058959,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Female,0 to 2 Years,2020,Pediatric General,Wound,Inpatient,No Information,No Information,Resistant,No Information
+1058960,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Male,65 to 84 Years,2020,Surgery General,Skin: Other,Inpatient,No Information,No Information,Resistant,No Information
+1058961,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Male,19 to 64 Years,2020,Medicine General,Wound,Inpatient,No Information,No Information,Resistant,No Information
+1058962,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Female,19 to 64 Years,2020,Medicine General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1058963,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Female,19 to 64 Years,2020,Surgery General,Skin: Other,Inpatient,No Information,No Information,Resistant,No Information
+1058964,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Male,19 to 64 Years,2020,Medicine ICU,Urine,Inpatient,No Information,No Information,Intermediate,No Information
+1058965,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Male,19 to 64 Years,2020,Medicine General,Wound,Inpatient,No Information,No Information,Intermediate,No Information
+1058966,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Male,19 to 64 Years,2020,Surgery ICU,Wound,Inpatient,No Information,No Information,Resistant,No Information
+1058967,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Male,19 to 64 Years,2020,Medicine General,Abscess,Inpatient,No Information,No Information,Resistant,No Information
+1058968,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Male,19 to 64 Years,2020,Medicine General,Wound,Inpatient,No Information,No Information,Resistant,No Information
+1058969,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Female,19 to 64 Years,2020,Surgery ICU,Skin: Other,Inpatient,No Information,No Information,Intermediate,No Information
+1058970,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Male,3 to 12 Years,2020,Pediatric General,Burn,Inpatient,No Information,No Information,Resistant,No Information
+1058971,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Male,65 to 84 Years,2020,Medicine ICU,Skin: Other,Inpatient,No Information,No Information,Resistant,No Information
+1058972,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Male,19 to 64 Years,2020,Surgery General,Wound,Inpatient,No Information,No Information,Resistant,No Information
+1058973,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Male,19 to 64 Years,2020,Medicine General,Skin: Other,Inpatient,No Information,No Information,Resistant,No Information
+1058974,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Male,19 to 64 Years,2020,Medicine General,Wound,Inpatient,No Information,No Information,Resistant,No Information
+1058975,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Female,19 to 64 Years,2020,Medicine General,Burn,Inpatient,No Information,No Information,Resistant,No Information
+1058976,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Male,19 to 64 Years,2020,Medicine General,Urine,Inpatient,No Information,No Information,Resistant,No Information
+1058977,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Female,19 to 64 Years,2020,Medicine General,Wound,Inpatient,No Information,No Information,Resistant,No Information
+1058978,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Female,13 to 18 Years,2020,Medicine General,Urine,Inpatient,No Information,No Information,Resistant,No Information
+1058979,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Male,13 to 18 Years,2020,Medicine General,Wound,Inpatient,No Information,No Information,Resistant,No Information
+1058980,32.56557,0.31704,Enterococcus faecalis,Enterococcus spp,Namirembe,Male,19 to 64 Years,2020,Surgery General,Wound,Inpatient,No Information,Susceptible,Resistant,No Information
+1058981,32.56557,0.31704,Streptococcus agalactiae,Streptococcus spp (no S. pneumo),Namirembe,Female,19 to 64 Years,2020,Medicine General,Skin: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1058982,32.56557,0.31704,Staphylococcus warneri,Staphylococcus spp,Namirembe,Male,65 to 84 Years,2020,Medicine General,Urine,Inpatient,No Information,No Information,Resistant,No Information
+1058983,32.56557,0.31704,Staphylococcus epidermidis,Staphylococcus spp,Namirembe,Female,19 to 64 Years,2020,Surgery General,Skin: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1058984,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Male,3 to 12 Years,2020,Surgery General,Wound,Inpatient,No Information,No Information,Intermediate,No Information
+1058985,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Male,3 to 12 Years,2020,None Given,Urine,None Given,No Information,No Information,Susceptible,No Information
+1058986,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Female,19 to 64 Years,2020,Medicine General,Skin: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1058987,32.56557,0.31704,Staphylococcus aureus,Staphylococcus spp,Namirembe,Female,19 to 64 Years,2020,Medicine General,Wound,Inpatient,No Information,No Information,Resistant,No Information
+1058988,32.56557,0.31704,Klebsiella pneumoniae,Enterobacteriaceae,Namirembe,Female,65 to 84 Years,2020,Surgery ICU,Respiratory: Other,Inpatient,Resistant,Resistant,No Information,No Information
+1106357,32.56557,0.31704,Escherichia coli,Enterobacteriaceae,Namirembe,Female,65 to 84 Years,2020,Surgery ICU,Blood,Inpatient,Resistant,Resistant,No Information,No Information
+1106362,32.56557,0.31704,Escherichia coli,Enterobacteriaceae,Namirembe,Male,65 to 84 Years,2020,Surgery General,Gastric Abscess,Inpatient,Resistant,Resistant,No Information,No Information
+1106365,32.56557,0.31704,Escherichia coli,Enterobacteriaceae,Namirembe,Male,65 to 84 Years,2020,Surgery General,Gastric Abscess,Inpatient,Resistant,Resistant,No Information,No Information
+1106379,32.56557,0.31704,Escherichia coli,Enterobacteriaceae,Namirembe,Male,19 to 64 Years,2020,Emergency Room,Wound,Outpatient,Resistant,Resistant,No Information,No Information
+1106391,32.56557,0.31704,Klebsiella pneumoniae,Enterobacteriaceae,Namirembe,Male,19 to 64 Years,2020,Medicine General,Blood,Inpatient,Resistant,Resistant,No Information,No Information
+1106394,32.56557,0.31704,Klebsiella pneumoniae,Enterobacteriaceae,Namirembe,Male,19 to 64 Years,2020,Surgery ICU,Respiratory: Other,Inpatient,Resistant,Resistant,No Information,No Information
+1106403,32.56557,0.31704,Klebsiella pneumoniae,Enterobacteriaceae,Namirembe,Male,Unknown,2020,Pediatric General,Blood,Inpatient,Resistant,Resistant,No Information,No Information
+1106406,32.56557,0.31704,Klebsiella pneumoniae,Enterobacteriaceae,Namirembe,Female,65 to 84 Years,2020,Medicine ICU,Wound,Inpatient,Resistant,Resistant,No Information,No Information
+1106410,32.56557,0.31704,Klebsiella pneumoniae,Enterobacteriaceae,Namirembe,Female,65 to 84 Years,2020,Medicine ICU,Sputum,Inpatient,Resistant,Resistant,No Information,No Information
+1106411,32.56557,0.31704,Klebsiella pneumoniae,Enterobacteriaceae,Namirembe,Male,19 to 64 Years,2020,Medicine ICU,Respiratory: Other,Inpatient,Resistant,Resistant,No Information,No Information
+1106424,32.56557,0.31704,Klebsiella pneumoniae,Enterobacteriaceae,Namirembe,Male,19 to 64 Years,2020,Medicine General,Blood,Inpatient,Resistant,Resistant,No Information,No Information
+1106428,32.56557,0.31704,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Namirembe,Male,19 to 64 Years,2020,Surgery General,Wound,Inpatient,Resistant,No Information,No Information,No Information
+1058989,32.56557,0.31704,Proteus mirabilis,Enterobacteriaceae,Namirembe,Female,19 to 64 Years,2020,Medicine General,Wound,Inpatient,Susceptible,Susceptible,No Information,No Information
+1058990,32.56557,0.31704,Proteus vulgaris,Enterobacteriaceae,Namirembe,Female,19 to 64 Years,2020,Surgery ICU,Wound,Inpatient,Susceptible,Resistant,No Information,No Information
+1106358,32.56557,0.31704,Escherichia coli,Enterobacteriaceae,Namirembe,Male,19 to 64 Years,2020,Surgery ICU,Blood,Inpatient,Susceptible,Resistant,No Information,No Information
+1106359,32.56557,0.31704,Escherichia coli,Enterobacteriaceae,Namirembe,Male,19 to 64 Years,2020,Emergency Room,Wound,Outpatient,Susceptible,Resistant,No Information,No Information
+1106360,32.56557,0.31704,Escherichia coli,Enterobacteriaceae,Namirembe,Female,19 to 64 Years,2020,Surgery General,Abscess,Inpatient,Susceptible,Resistant,No Information,No Information
+1106361,32.56557,0.31704,Escherichia coli,Enterobacteriaceae,Namirembe,Female,19 to 64 Years,2020,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1106363,32.56557,0.31704,Escherichia coli,Enterobacteriaceae,Namirembe,Female,19 to 64 Years,2020,Medicine General,Colon,Inpatient,Susceptible,Resistant,No Information,No Information
+1106364,32.56557,0.31704,Escherichia coli,Enterobacteriaceae,Namirembe,Female,65 to 84 Years,2020,Medicine General,Intestinal: Other,Inpatient,Susceptible,Resistant,No Information,No Information
+1106366,32.56557,0.31704,Escherichia coli,Enterobacteriaceae,Namirembe,Male,19 to 64 Years,2020,Surgery ICU,Wound,Inpatient,Susceptible,Resistant,No Information,No Information
+1106367,32.56557,0.31704,Escherichia coli,Enterobacteriaceae,Namirembe,Female,19 to 64 Years,2020,None Given,Gastric Abscess,None Given,Susceptible,Resistant,No Information,No Information
+1106368,32.56557,0.31704,Escherichia coli,Enterobacteriaceae,Namirembe,Female,65 to 84 Years,2020,Surgery General,Wound,Inpatient,Susceptible,Resistant,No Information,No Information
+1106369,32.56557,0.31704,Escherichia coli,Enterobacteriaceae,Namirembe,Male,19 to 64 Years,2020,Medicine General,Blood,Inpatient,Susceptible,Resistant,No Information,No Information
+1106370,32.56557,0.31704,Escherichia coli,Enterobacteriaceae,Namirembe,Female,65 to 84 Years,2020,Medicine General,Blood,Inpatient,Susceptible,Resistant,No Information,No Information
+1106372,32.56557,0.31704,Escherichia coli,Enterobacteriaceae,Namirembe,Female,65 to 84 Years,2020,Medicine General,Blood,Inpatient,Susceptible,Resistant,No Information,No Information
+1106373,32.56557,0.31704,Escherichia coli,Enterobacteriaceae,Namirembe,Male,19 to 64 Years,2020,Emergency Room,Urine,Outpatient,Susceptible,Resistant,No Information,No Information
+1106374,32.56557,0.31704,Escherichia coli,Enterobacteriaceae,Namirembe,Male,19 to 64 Years,2020,Surgery General,Wound,Inpatient,Susceptible,Susceptible,No Information,No Information
+1106375,32.56557,0.31704,Escherichia coli,Enterobacteriaceae,Namirembe,Female,19 to 64 Years,2020,Medicine General,Blood,Inpatient,Susceptible,Resistant,No Information,No Information
+1106376,32.56557,0.31704,Escherichia coli,Enterobacteriaceae,Namirembe,Male,3 to 12 Years,2020,Pediatric General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1106380,32.56557,0.31704,Morganella morganii,Enterobacteriaceae,Namirembe,Male,19 to 64 Years,2020,Surgery General,Wound,Inpatient,Susceptible,Resistant,No Information,No Information
+1106381,32.56557,0.31704,Escherichia coli,Enterobacteriaceae,Namirembe,Female,19 to 64 Years,2020,Medicine General,Urine,Inpatient,Susceptible,Susceptible,No Information,No Information
+1106382,32.56557,0.31704,Escherichia coli,Enterobacteriaceae,Namirembe,Female,19 to 64 Years,2020,Medicine General,Urine,Inpatient,Susceptible,Susceptible,No Information,No Information
+1106383,32.56557,0.31704,Escherichia coli,Enterobacteriaceae,Namirembe,Female,19 to 64 Years,2020,Medicine General,Urine,Inpatient,Susceptible,Susceptible,No Information,No Information
+1106384,32.56557,0.31704,Escherichia coli,Enterobacteriaceae,Namirembe,Female,19 to 64 Years,2020,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1106385,32.56557,0.31704,Escherichia coli,Enterobacteriaceae,Namirembe,Female,19 to 64 Years,2020,Emergency Room,Urine,Outpatient,Susceptible,Susceptible,No Information,No Information
+1106388,32.56557,0.31704,Escherichia coli,Enterobacteriaceae,Namirembe,Female,19 to 64 Years,2020,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1106390,32.56557,0.31704,Klebsiella pneumoniae,Enterobacteriaceae,Namirembe,Female,19 to 64 Years,2020,Emergency Room,Urine,Outpatient,Susceptible,Resistant,No Information,No Information
+1106392,32.56557,0.31704,Klebsiella pneumoniae,Enterobacteriaceae,Namirembe,Female,65 to 84 Years,2020,Medicine ICU,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1106393,32.56557,0.31704,Klebsiella pneumoniae,Enterobacteriaceae,Namirembe,Male,19 to 64 Years,2020,Emergency Room,Urine,Outpatient,Susceptible,Resistant,No Information,No Information
+1106397,32.56557,0.31704,Klebsiella pneumoniae,Enterobacteriaceae,Namirembe,Male,19 to 64 Years,2020,None Given,Respiratory: Other,None Given,Susceptible,Resistant,No Information,No Information
+1106398,32.56557,0.31704,Klebsiella pneumoniae,Enterobacteriaceae,Namirembe,Male,19 to 64 Years,2020,Surgery ICU,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1106400,32.56557,0.31704,Klebsiella pneumoniae,Enterobacteriaceae,Namirembe,Female,0 to 2 Years,2020,Surgery ICU,Wound,Inpatient,Susceptible,Resistant,No Information,No Information
+1106401,32.56557,0.31704,Klebsiella pneumoniae,Enterobacteriaceae,Namirembe,Female,65 to 84 Years,2020,Medicine ICU,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1106402,32.56557,0.31704,Klebsiella pneumoniae,Enterobacteriaceae,Namirembe,Male,65 to 84 Years,2020,Surgery General,Abscess,Inpatient,Susceptible,Resistant,No Information,No Information
+1106404,32.56557,0.31704,Morganella morganii,Enterobacteriaceae,Namirembe,Female,3 to 12 Years,2020,Pediatric General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1106405,32.56557,0.31704,Klebsiella pneumoniae,Enterobacteriaceae,Namirembe,Female,19 to 64 Years,2020,Medicine General,Urine,Inpatient,Susceptible,Intermediate,No Information,No Information
+1106407,32.56557,0.31704,Klebsiella pneumoniae,Enterobacteriaceae,Namirembe,Male,19 to 64 Years,2020,Medicine ICU,Respiratory: Other,Inpatient,Susceptible,Resistant,No Information,No Information
+1106408,32.56557,0.31704,Klebsiella pneumoniae,Enterobacteriaceae,Namirembe,Male,19 to 64 Years,2020,Medicine General,Sputum,Inpatient,Susceptible,Resistant,No Information,No Information
+1106409,32.56557,0.31704,Klebsiella pneumoniae,Enterobacteriaceae,Namirembe,Male,19 to 64 Years,2020,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1106412,32.56557,0.31704,Klebsiella pneumoniae,Enterobacteriaceae,Namirembe,Female,19 to 64 Years,2020,Emergency Room,Urine,Outpatient,Susceptible,Intermediate,No Information,No Information
+1046165,32.66444,0.3343,Streptococcus pyogenes,Streptococcus spp (no S. pneumo),Kira,Male,13 to 18 Years,2021,Medicine General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1046166,32.66444,0.3343,Streptococcus pyogenes,Streptococcus spp (no S. pneumo),Kira,Female,19 to 64 Years,2021,Medicine General,Respiratory: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1046167,32.66444,0.3343,Staphylococcus epidermidis,Staphylococcus spp,Kira,Female,19 to 64 Years,2021,Medicine General,Urine,Inpatient,No Information,No Information,Susceptible,No Information
+1046168,32.66444,0.3343,Staphylococcus haemolyticus,Staphylococcus spp,Kira,Male,0 to 2 Years,2021,Medicine General,Skin: Other,Inpatient,No Information,No Information,Resistant,No Information
+1046169,32.66444,0.3343,Staphylococcus epidermidis,Staphylococcus spp,Kira,Male,65 to 84 Years,2021,Medicine General,Urine,Inpatient,No Information,No Information,Susceptible,No Information
+1046170,32.66444,0.3343,Staphylococcus epidermidis,Staphylococcus spp,Kira,Female,3 to 12 Years,2021,Pediatric ICU,Skin: Other,Inpatient,No Information,No Information,Resistant,No Information
+1046171,32.66444,0.3343,Staphylococcus epidermidis,Staphylococcus spp,Kira,Male,65 to 84 Years,2021,Medicine ICU,Skin: Other,Inpatient,No Information,No Information,Resistant,No Information
+1046172,32.66444,0.3343,Staphylococcus epidermidis,Staphylococcus spp,Kira,Female,3 to 12 Years,2021,Pediatric ICU,Skin: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1046173,32.66444,0.3343,Staphylococcus haemolyticus,Staphylococcus spp,Kira,Male,65 to 84 Years,2021,Medicine General,Skin: Other,Inpatient,No Information,No Information,Resistant,No Information
+1046174,32.66444,0.3343,Staphylococcus epidermidis,Staphylococcus spp,Kira,Male,65 to 84 Years,2021,Medicine ICU,Skin: Other,Inpatient,No Information,No Information,Resistant,No Information
+1046175,32.66444,0.3343,Staphylococcus hominis,Staphylococcus spp,Kira,Female,0 to 2 Years,2021,Pediatric ICU,Skin: Other,Inpatient,No Information,No Information,Resistant,No Information
+1046176,32.66444,0.3343,Staphylococcus epidermidis,Staphylococcus spp,Kira,Male,0 to 2 Years,2021,Pediatric ICU,Skin: Other,Inpatient,No Information,No Information,Resistant,No Information
+1046177,32.66444,0.3343,Staphylococcus epidermidis,Staphylococcus spp,Kira,Female,85 and Over,2021,Medicine ICU,Skin: Other,Inpatient,No Information,No Information,Resistant,No Information
+1046178,32.66444,0.3343,Staphylococcus saprophyticus,Staphylococcus spp,Kira,Female,19 to 64 Years,2021,Medicine General,Urine,Inpatient,No Information,No Information,Resistant,No Information
+1046179,32.66444,0.3343,Staphylococcus epidermidis,Staphylococcus spp,Kira,Female,85 and Over,2021,Surgery ICU,Skin: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1046180,32.66444,0.3343,Staphylococcus hominis,Staphylococcus spp,Kira,Female,0 to 2 Years,2021,Pediatric ICU,Skin: Other,Inpatient,No Information,No Information,Resistant,No Information
+1046181,32.66444,0.3343,Staphylococcus epidermidis,Staphylococcus spp,Kira,Male,0 to 2 Years,2021,Medicine General,Skin: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1046182,32.66444,0.3343,Staphylococcus hominis,Staphylococcus spp,Kira,Female,3 to 12 Years,2021,Emergency Room,Skin: Other,Outpatient,No Information,No Information,Susceptible,No Information
+1046183,32.66444,0.3343,Staphylococcus epidermidis,Staphylococcus spp,Kira,Male,0 to 2 Years,2021,Pediatric ICU,Skin: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1046207,32.66444,0.3343,Staphylococcus aureus,Staphylococcus spp,Kira,Female,3 to 12 Years,2021,Medicine General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1046208,32.66444,0.3343,Staphylococcus aureus,Staphylococcus spp,Kira,Female,0 to 2 Years,2021,Pediatric General,Skin: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1046209,32.66444,0.3343,Staphylococcus aureus,Staphylococcus spp,Kira,Female,19 to 64 Years,2021,Medicine General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1046210,32.66444,0.3343,Staphylococcus aureus,Staphylococcus spp,Kira,Female,3 to 12 Years,2021,Pediatric ICU,Skin: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1046211,32.66444,0.3343,Staphylococcus aureus,Staphylococcus spp,Kira,Male,65 to 84 Years,2021,Medicine General,Wound,Inpatient,No Information,No Information,Intermediate,No Information
+1046212,32.66444,0.3343,Staphylococcus aureus,Staphylococcus spp,Kira,Female,19 to 64 Years,2021,Medicine General,Skin: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1046213,32.66444,0.3343,Staphylococcus aureus,Staphylococcus spp,Kira,Male,19 to 64 Years,2021,Medicine General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1046214,32.66444,0.3343,Staphylococcus aureus,Staphylococcus spp,Kira,Male,3 to 12 Years,2021,Medicine General,Gastric Abscess,Inpatient,No Information,No Information,Susceptible,No Information
+1046215,32.66444,0.3343,Staphylococcus aureus,Staphylococcus spp,Kira,Female,19 to 64 Years,2021,Medicine General,Abscess,Inpatient,No Information,No Information,Intermediate,No Information
+1046216,32.66444,0.3343,Staphylococcus sciuri,Staphylococcus spp,Kira,Male,0 to 2 Years,2021,Pediatric General,Abscess,Inpatient,No Information,No Information,Susceptible,No Information
+1046217,32.66444,0.3343,Staphylococcus aureus,Staphylococcus spp,Kira,Female,19 to 64 Years,2021,Medicine General,Wound,Inpatient,No Information,No Information,Intermediate,No Information
+1046218,32.66444,0.3343,Staphylococcus aureus,Staphylococcus spp,Kira,Male,19 to 64 Years,2021,Medicine General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1046219,32.66444,0.3343,Staphylococcus aureus,Staphylococcus spp,Kira,Male,19 to 64 Years,2021,Medicine ICU,Endotracheal aspirate,Inpatient,No Information,No Information,Intermediate,No Information
+1046220,32.66444,0.3343,Staphylococcus aureus,Staphylococcus spp,Kira,Male,13 to 18 Years,2021,Medicine General,Wound,Inpatient,No Information,No Information,Intermediate,No Information
+1046221,32.66444,0.3343,Staphylococcus aureus,Staphylococcus spp,Kira,Female,19 to 64 Years,2021,Medicine General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1046222,32.66444,0.3343,Staphylococcus aureus,Staphylococcus spp,Kira,Female,19 to 64 Years,2021,Medicine General,Skin: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1046223,32.66444,0.3343,Staphylococcus aureus,Staphylococcus spp,Kira,Female,19 to 64 Years,2021,General Unspecified ICU,Skin: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1046224,32.66444,0.3343,Staphylococcus aureus,Staphylococcus spp,Kira,Female,19 to 64 Years,2021,Medicine General,Wound,Inpatient,No Information,No Information,Intermediate,No Information
+1046225,32.66444,0.3343,Staphylococcus aureus,Staphylococcus spp,Kira,Female,19 to 64 Years,2021,Surgery General,Wound,Inpatient,No Information,No Information,Intermediate,No Information
+1046226,32.66444,0.3343,Staphylococcus aureus,Staphylococcus spp,Kira,Female,13 to 18 Years,2021,Medicine General,Skin: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1046227,32.66444,0.3343,Staphylococcus aureus,Staphylococcus spp,Kira,Male,19 to 64 Years,2021,Medicine General,Skin: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1046228,32.66444,0.3343,Staphylococcus aureus,Staphylococcus spp,Kira,Female,65 to 84 Years,2021,Medicine General,Skin: Other,Inpatient,No Information,No Information,Susceptible,No Information
+1046229,32.66444,0.3343,Staphylococcus aureus,Staphylococcus spp,Kira,Female,19 to 64 Years,2021,Medicine General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1106649,32.53299,0.31665,Streptococcus pneumoniae,Streptococcus pneumoniae,Lugala,Female,19 to 64 Years,2021,Medicine ICU,Blood,Inpatient,No Information,No Information,Susceptible,No Information
+1106666,32.53299,0.31665,Streptococcus pneumoniae,Streptococcus pneumoniae,Lugala,Male,3 to 12 Years,2021,Pediatric ICU,Blood,Inpatient,No Information,No Information,Resistant,No Information
+1106667,32.53299,0.31665,Streptococcus pneumoniae,Streptococcus pneumoniae,Lugala,Male,19 to 64 Years,2021,Medicine ICU,Sputum,Inpatient,No Information,No Information,Resistant,No Information
+1106670,32.53299,0.31665,Streptococcus pneumoniae,Streptococcus pneumoniae,Lugala,Female,3 to 12 Years,2021,Pediatric General,Wound,Inpatient,No Information,No Information,Susceptible,No Information
+1106671,32.53299,0.31665,Streptococcus pneumoniae,Streptococcus pneumoniae,Lugala,Male,3 to 12 Years,2021,Pediatric General,Sputum,Inpatient,No Information,No Information,Resistant,No Information
+1106672,32.53299,0.31665,Streptococcus pneumoniae,Streptococcus pneumoniae,Lugala,Female,19 to 64 Years,2021,None Given,Sputum,None Given,No Information,No Information,Resistant,No Information
+1106674,32.53299,0.31665,Streptococcus pneumoniae,Streptococcus pneumoniae,Lugala,Male,65 to 84 Years,2021,General Unspecified ICU,Respiratory: Other,Inpatient,No Information,No Information,Resistant,No Information
+1106675,32.53299,0.31665,Streptococcus pneumoniae,Streptococcus pneumoniae,Lugala,Male,65 to 84 Years,2021,None Given,Sputum,None Given,No Information,No Information,Resistant,No Information
+1106677,32.53299,0.31665,Streptococcus pneumoniae,Streptococcus pneumoniae,Lugala,Female,3 to 12 Years,2021,None Given,Respiratory: Other,None Given,No Information,No Information,Resistant,No Information
+1106678,32.53299,0.31665,Streptococcus agalactiae,Streptococcus spp (no S. pneumo),Lugala,Female,65 to 84 Years,2021,Medicine General,Urine,Inpatient,No Information,No Information,Susceptible,No Information
+1106679,32.53299,0.31665,Streptococcus agalactiae,Streptococcus spp (no S. pneumo),Lugala,Female,19 to 64 Years,2021,Medicine General,Genitourinary: Other,Inpatient,No Information,No Information,Resistant,No Information
+1106680,32.53299,0.31665,Streptococcus agalactiae,Streptococcus spp (no S. pneumo),Lugala,Male,19 to 64 Years,2021,Surgery General,Gastric Abscess,Inpatient,No Information,No Information,Susceptible,No Information
+1106681,32.53299,0.31665,Neisseria gonorrhoeae,Neisseria gonorrhoeae,Lugala,Male,19 to 64 Years,2021,Medicine General,Genitourinary: Other,Inpatient,No Information,No Information,No Information,No Information
+1106682,32.53299,0.31665,Neisseria gonorrhoeae,Neisseria gonorrhoeae,Lugala,Male,13 to 18 Years,2021,Medicine General,Genitourinary: Other,Inpatient,No Information,No Information,No Information,No Information
+1106683,32.53299,0.31665,Enterococcus faecalis,Enterococcus spp,Lugala,Male,19 to 64 Years,2021,Surgery General,Wound,Inpatient,No Information,Susceptible,Resistant,No Information
+1106686,32.53299,0.31665,Haemophilus influenzae,Haemophilus spp,Lugala,Male,19 to 64 Years,2021,Medicine ICU,Blood,Inpatient,No Information,Susceptible,No Information,No Information
+1106494,32.53299,0.31665,Acinetobacter baumannii,Non-Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,Surgery ICU,Respiratory: Other,Inpatient,Resistant,No Information,No Information,No Information
+1106496,32.53299,0.31665,Acinetobacter baumannii,Non-Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,Surgery ICU,Respiratory: Other,Inpatient,Resistant,No Information,No Information,No Information
+1106497,32.53299,0.31665,Acinetobacter baumannii,Non-Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,Surgery ICU,Respiratory: Other,Inpatient,Resistant,No Information,No Information,No Information
+1106499,32.53299,0.31665,Acinetobacter baumannii,Non-Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,Medicine ICU,Respiratory: Other,Inpatient,Resistant,No Information,No Information,No Information
+1106500,32.53299,0.31665,Acinetobacter baumannii,Non-Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,Surgery ICU,Respiratory: Other,Inpatient,Resistant,No Information,No Information,No Information
+1106502,32.53299,0.31665,Acinetobacter baumannii,Non-Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,Medicine General,Urine,Inpatient,Resistant,No Information,No Information,No Information
+1106431,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Male,65 to 84 Years,2021,Medicine General,Skin: Other,Inpatient,Susceptible,No Information,No Information,No Information
+1106433,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,Surgery ICU,Blood,Inpatient,Susceptible,No Information,No Information,No Information
+1106436,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,Surgery General,Wound,Inpatient,Susceptible,No Information,No Information,No Information
+1106438,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,Medicine ICU,Respiratory: Other,Inpatient,Susceptible,No Information,No Information,No Information
+1106439,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,Emergency Room,Urine,Outpatient,Susceptible,No Information,No Information,No Information
+1106440,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,Surgery General,Wound,Inpatient,Susceptible,No Information,No Information,No Information
+1106441,32.53299,0.31665,Pseudomonas putida,Non-Enterobacteriaceae,Lugala,Female,0 to 2 Years,2021,Pediatric General,Urine,Inpatient,Susceptible,No Information,No Information,No Information
+1106442,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,Surgery General,Wound,Inpatient,Susceptible,No Information,No Information,No Information
+1106444,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Male,13 to 18 Years,2021,Medicine General,Sputum,Inpatient,Susceptible,No Information,No Information,No Information
+1106445,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Male,65 to 84 Years,2021,Medicine ICU,Sputum,Inpatient,Susceptible,No Information,No Information,No Information
+1106446,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Female,0 to 2 Years,2021,Pediatric ICU,Blood,Inpatient,Susceptible,No Information,No Information,No Information
+1106447,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,Medicine ICU,Respiratory: Other,Inpatient,Susceptible,No Information,No Information,No Information
+1106448,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,Medicine General,Gastric Abscess,Inpatient,Susceptible,No Information,No Information,No Information
+1106449,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,Medicine General,Urine,Inpatient,Susceptible,No Information,No Information,No Information
+1106450,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,None Given,Respiratory: Other,None Given,Susceptible,No Information,No Information,No Information
+1106452,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,Medicine General,Sputum,Inpatient,Susceptible,No Information,No Information,No Information
+1106453,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Male,65 to 84 Years,2021,Medicine ICU,Sputum,Inpatient,Susceptible,No Information,No Information,No Information
+1106454,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,Medicine ICU,Respiratory: Other,Inpatient,Susceptible,No Information,No Information,No Information
+1106455,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,Surgery ICU,Respiratory: Other,Inpatient,Susceptible,No Information,No Information,No Information
+1106457,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Male,13 to 18 Years,2021,Medicine General,Urine,Inpatient,Susceptible,No Information,No Information,No Information
+1106458,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,Medicine ICU,Respiratory: Other,Inpatient,Susceptible,No Information,No Information,No Information
+1106460,32.53299,0.31665,Proteus vulgaris,Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,Emergency Room,Urine,Outpatient,Susceptible,Susceptible,No Information,No Information
+1106461,32.53299,0.31665,Proteus vulgaris,Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,Medicine General,Wound,Inpatient,Susceptible,Resistant,No Information,No Information
+1106463,32.53299,0.31665,Proteus vulgaris,Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,Surgery General,Wound,Inpatient,Susceptible,Resistant,No Information,No Information
+1106464,32.53299,0.31665,Klebsiella oxytoca,Enterobacteriaceae,Lugala,Female,85 and Over,2021,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1106465,32.53299,0.31665,Klebsiella pneumoniae,Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,Medicine ICU,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1106466,32.53299,0.31665,Proteus mirabilis,Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,Medicine General,Urine,Inpatient,Susceptible,Susceptible,No Information,No Information
+1106467,32.53299,0.31665,Proteus mirabilis,Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1106468,32.53299,0.31665,Proteus mirabilis,Enterobacteriaceae,Lugala,Female,3 to 12 Years,2021,Pediatric General,Urine,Inpatient,Susceptible,Susceptible,No Information,No Information
+1106469,32.53299,0.31665,Proteus mirabilis,Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1106470,32.53299,0.31665,Proteus mirabilis,Enterobacteriaceae,Lugala,Male,3 to 12 Years,2021,Pediatric General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1106471,32.53299,0.31665,Proteus mirabilis,Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,Medicine General,Urine,Inpatient,Susceptible,Susceptible,No Information,No Information
+1106473,32.53299,0.31665,Enterobacter cloacae,Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,Surgery ICU,Wound,Inpatient,Susceptible,Resistant,No Information,No Information
+1106474,32.53299,0.31665,Enterobacter asburiae,Enterobacteriaceae,Lugala,Female,0 to 2 Years,2021,Pediatric ICU,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1106475,32.53299,0.31665,Acinetobacter nosocomialis,Non-Enterobacteriaceae,Lugala,Female,0 to 2 Years,2021,Pediatric ICU,Blood,Inpatient,Susceptible,No Information,No Information,No Information
+1106476,32.53299,0.31665,Enterobacter asburiae,Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,Pediatric General,Wound,Inpatient,Susceptible,Intermediate,No Information,No Information
+1106477,32.53299,0.31665,Enterobacter cloacae,Enterobacteriaceae,Lugala,Female,0 to 2 Years,2021,Pediatric ICU,Blood,Inpatient,Susceptible,Resistant,No Information,No Information
+1106478,32.53299,0.31665,Serratia marcescens,Enterobacteriaceae,Lugala,Male,65 to 84 Years,2021,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1106479,32.53299,0.31665,Citrobacter freundii,Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1106480,32.53299,0.31665,Escherichia coli,Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,Medicine ICU,Urine,Inpatient,Susceptible,Susceptible,No Information,No Information
+1106481,32.53299,0.31665,Citrobacter koseri,Enterobacteriaceae,Lugala,Male,0 to 2 Years,2021,Pediatric ICU,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1106482,32.53299,0.31665,Citrobacter freundii,Enterobacteriaceae,Lugala,Male,3 to 12 Years,2021,Pediatric General,Urine,Inpatient,Susceptible,Susceptible,No Information,No Information
+1106483,32.53299,0.31665,Escherichia coli,Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1106484,32.53299,0.31665,Serratia marcescens,Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,Medicine General,Sputum,Inpatient,Susceptible,Susceptible,No Information,No Information
+1106485,32.53299,0.31665,Serratia marcescens,Enterobacteriaceae,Lugala,Female,0 to 2 Years,2021,Pediatric ICU,Blood,Inpatient,Susceptible,Resistant,No Information,No Information
+1106486,32.53299,0.31665,Morganella morganii,Enterobacteriaceae,Lugala,Male,3 to 12 Years,2021,Pediatric General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1106487,32.53299,0.31665,Morganella morganii,Enterobacteriaceae,Lugala,Male,0 to 2 Years,2021,Pediatric ICU,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1106488,32.53299,0.31665,Providencia stuartii,Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,Medicine General,Wound,Inpatient,Susceptible,Susceptible,No Information,No Information
+1106495,32.53299,0.31665,Acinetobacter nosocomialis,Non-Enterobacteriaceae,Lugala,Female,0 to 2 Years,2021,Pediatric ICU,Blood,Inpatient,Susceptible,No Information,No Information,No Information
+1106498,32.53299,0.31665,Acinetobacter nosocomialis,Non-Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,Surgery ICU,Blood,Inpatient,Susceptible,No Information,No Information,No Information
+1106501,32.53299,0.31665,Acinetobacter baumannii,Non-Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,Surgery General,Wound,Inpatient,Susceptible,No Information,No Information,No Information
+1106508,32.53299,0.31665,Enterobacter cloacae,Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,Surgery ICU,Wound,Inpatient,Susceptible,Intermediate,No Information,No Information
+1106509,32.53299,0.31665,Escherichia coli,Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,Medicine General,Urine,Inpatient,Susceptible,Susceptible,No Information,No Information
+1106510,32.53299,0.31665,Klebsiella pneumoniae,Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,Surgery ICU,Blood,Inpatient,Susceptible,Resistant,No Information,No Information
+1106512,32.53299,0.31665,Escherichia coli,Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1106514,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,Surgery ICU,Wound,Inpatient,Susceptible,No Information,No Information,No Information
+1106515,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Female,0 to 2 Years,2021,Pediatric ICU,Respiratory: Other,Inpatient,Susceptible,No Information,No Information,No Information
+1106518,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,Medicine General,Respiratory: Other,Inpatient,Susceptible,No Information,No Information,No Information
+1106652,32.53299,0.31665,Proteus vulgaris,Enterobacteriaceae,Lugala,Male,65 to 84 Years,2021,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1106653,32.53299,0.31665,Klebsiella aerogenes,Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,General Unspecified ICU,Respiratory: Other,Inpatient,Susceptible,Resistant,No Information,No Information
+1106654,32.53299,0.31665,Proteus vulgaris,Enterobacteriaceae,Lugala,Male,0 to 2 Years,2021,Pediatric General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1106656,32.53299,0.31665,Klebsiella aerogenes,Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,General Unspecified ICU,Respiratory: Other,Inpatient,Susceptible,Resistant,No Information,No Information
+1106657,32.53299,0.31665,Enterobacter cloacae,Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,Surgery General,Wound,Inpatient,Susceptible,Resistant,No Information,No Information
+1106658,32.53299,0.31665,Klebsiella oxytoca,Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,Surgery General,Wound,Inpatient,Susceptible,Resistant,No Information,No Information
+1106659,32.53299,0.31665,Klebsiella pneumoniae,Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1106660,32.53299,0.31665,Klebsiella oxytoca,Enterobacteriaceae,Lugala,Female,13 to 18 Years,2021,Surgery General,Wound,Inpatient,Susceptible,Resistant,No Information,No Information
+1106661,32.53299,0.31665,Klebsiella pneumoniae,Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,Surgery General,Wound,Inpatient,Susceptible,Resistant,No Information,No Information
+1106662,32.53299,0.31665,Klebsiella pneumoniae,Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,Medicine ICU,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1106663,32.53299,0.31665,Morganella morganii,Enterobacteriaceae,Lugala,Male,3 to 12 Years,2021,Pediatric General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1106664,32.53299,0.31665,Citrobacter freundii,Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1106665,32.53299,0.31665,Citrobacter freundii,Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,Surgery General,Wound,Inpatient,Susceptible,Resistant,No Information,No Information
+1106684,32.53299,0.31665,Klebsiella pneumoniae,Enterobacteriaceae,Lugala,Male,3 to 12 Years,2021,Pediatric General,Wound,Inpatient,Susceptible,Resistant,No Information,No Information
+1106685,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Female,65 to 84 Years,2021,Surgery General,Ulcer,Inpatient,Susceptible,No Information,No Information,No Information
+1147308,32.53299,0.31665,Escherichia coli,Enterobacteriaceae,Lugala,Female,0 to 2 Years,2021,Other,Urine,None Given,Susceptible,Resistant,No Information,No Information
+1147309,32.53299,0.31665,Acinetobacter baumannii,Non-Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,Medicine General,Wound,Inpatient,Susceptible,No Information,No Information,No Information
+1147310,32.53299,0.31665,Escherichia coli,Enterobacteriaceae,Lugala,Female,65 to 84 Years,2021,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1147311,32.53299,0.31665,Escherichia coli,Enterobacteriaceae,Lugala,Female,85 and Over,2021,Other,Urine,None Given,Susceptible,Resistant,No Information,No Information
+1147312,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,General Unspecified ICU,Urine,Inpatient,Susceptible,No Information,No Information,No Information
+1147315,32.53299,0.31665,Escherichia coli,Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,Other,Urine,None Given,Susceptible,Resistant,No Information,No Information
+1147319,32.53299,0.31665,Klebsiella pneumoniae,Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,Medicine General,Wound,Inpatient,Susceptible,Resistant,No Information,No Information
+1147320,32.53299,0.31665,Escherichia coli,Enterobacteriaceae,Lugala,Female,85 and Over,2021,Other,Urine,None Given,Susceptible,Resistant,No Information,No Information
+1147322,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Female,65 to 84 Years,2021,General Unspecified ICU,Endotracheal aspirate,Inpatient,Susceptible,No Information,No Information,No Information
+1147324,32.53299,0.31665,Klebsiella pneumoniae,Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,Medicine General,Bronchoalveolar lavage,Inpatient,Susceptible,Intermediate,No Information,No Information
+1147325,32.53299,0.31665,Enterobacter cloacae,Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,General Unspecified ICU,Blood,Inpatient,Susceptible,Intermediate,No Information,No Information
+1147326,32.53299,0.31665,Enterobacter asburiae,Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,Surgery General,Wound,Inpatient,Susceptible,Resistant,No Information,No Information
+1147327,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Female,65 to 84 Years,2021,Medicine General,Wound,Inpatient,Susceptible,No Information,No Information,No Information
+1147328,32.53299,0.31665,Klebsiella pneumoniae,Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,Surgery General,Intestinal: Other,Inpatient,Susceptible,Resistant,No Information,No Information
+1147329,32.53299,0.31665,Klebsiella pneumoniae,Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1147330,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Female,65 to 84 Years,2021,General Unspecified ICU,Endotracheal aspirate,Inpatient,Susceptible,No Information,No Information,No Information
+1147331,32.53299,0.31665,Klebsiella pneumoniae,Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,Other,Urine,None Given,Susceptible,Resistant,No Information,No Information
+1147332,32.53299,0.31665,Klebsiella pneumoniae,Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,Other,Wound,None Given,Susceptible,Resistant,No Information,No Information
+1147334,32.53299,0.31665,Klebsiella pneumoniae,Enterobacteriaceae,Lugala,Male,65 to 84 Years,2021,Other,Urine,None Given,Susceptible,Resistant,No Information,No Information
+1147335,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Male,65 to 84 Years,2021,Surgery General,Wound,Inpatient,Susceptible,No Information,No Information,No Information
+1147336,32.53299,0.31665,Klebsiella pneumoniae,Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,Medicine General,Blood,Inpatient,Susceptible,Resistant,No Information,No Information
+1147337,32.53299,0.31665,Escherichia coli,Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,Medicine General,Wound,Inpatient,Susceptible,Resistant,No Information,No Information
+1147339,32.53299,0.31665,Citrobacter koseri,Enterobacteriaceae,Lugala,Male,65 to 84 Years,2021,Other,Urine,None Given,Susceptible,Resistant,No Information,No Information
+1147340,32.53299,0.31665,Morganella morganii,Enterobacteriaceae,Lugala,Female,65 to 84 Years,2021,Medicine General,Cellulitis,Inpatient,Susceptible,Resistant,No Information,No Information
+39001,32.53299,0.31665,Escherichia coli,Enterobacteriaceae,Lugala,Male,65 to 84 Years,2021,Medicine General,Urine,No Information,Susceptible,Resistant,No Information,No Information
+39002,32.53299,0.31665,Klebsiella aerogenes,Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,Medicine General,Urine,No Information,Susceptible,Intermediate,No Information,No Information
+39003,32.53299,0.31665,Escherichia coli,Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,Medicine General,Urine,No Information,Susceptible,Resistant,No Information,No Information
+39004,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Female,65 to 84 Years,2021,Surgery General,Wound,No Information,Susceptible,No Information,No Information,No Information
+39005,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Male,65 to 84 Years,2021,Medicine General,Wound,No Information,Susceptible,No Information,No Information,No Information
+39006,32.53299,0.31665,Escherichia coli,Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,Other,Urine,No Information,Susceptible,Resistant,No Information,No Information
+39008,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,Surgery General,Ulcer,No Information,Susceptible,No Information,No Information,No Information
+39009,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,Surgery General,Wound,No Information,Susceptible,No Information,No Information,No Information
+39010,32.53299,0.31665,Klebsiella pneumoniae,Enterobacteriaceae,Lugala,Female,19 to 64 Years,2021,Medicine ICU,Urine,No Information,Susceptible,Resistant,No Information,No Information
+39012,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Male,19 to 64 Years,2021,Medicine General,Blood,No Information,Susceptible,No Information,No Information,No Information
+1106413,32.56557,0.31704,Klebsiella pneumoniae,Enterobacteriaceae,Namirembe,Female,Unknown,2021,Pediatric ICU,Intestinal: Other,Inpatient,Susceptible,Resistant,No Information,No Information
+1106414,32.56557,0.31704,Klebsiella pneumoniae,Enterobacteriaceae,Namirembe,Male,85 and Over,2021,Medicine ICU,Urine,Inpatient,Susceptible,Resistant,No Information,Resistant
+1106415,32.56557,0.31704,Klebsiella pneumoniae,Enterobacteriaceae,Namirembe,Male,65 to 84 Years,2021,Medicine General,Sputum,Inpatient,Susceptible,Resistant,No Information,Resistant
+1106416,32.56557,0.31704,Klebsiella pneumoniae,Enterobacteriaceae,Namirembe,Female,85 and Over,2021,Medicine ICU,Respiratory: Other,Inpatient,Susceptible,Resistant,No Information,Resistant
+1106417,32.56557,0.31704,Klebsiella pneumoniae,Enterobacteriaceae,Namirembe,Male,65 to 84 Years,2021,Medicine ICU,Bronchoalveolar lavage,Inpatient,Susceptible,Resistant,No Information,Resistant
+1106418,32.56557,0.31704,Klebsiella pneumoniae,Enterobacteriaceae,Namirembe,Male,65 to 84 Years,2021,Medicine ICU,Blood,Inpatient,Susceptible,Resistant,No Information,Resistant
+1106419,32.56557,0.31704,Klebsiella oxytoca,Enterobacteriaceae,Namirembe,Female,19 to 64 Years,2021,Surgery General,Wound,Inpatient,Susceptible,Intermediate,No Information,No Information
+1106420,32.56557,0.31704,Klebsiella pneumoniae,Enterobacteriaceae,Namirembe,Male,19 to 64 Years,2021,Medicine ICU,Blood,Inpatient,Susceptible,Resistant,No Information,No Information
+1106421,32.56557,0.31704,Klebsiella pneumoniae,Enterobacteriaceae,Namirembe,Male,19 to 64 Years,2021,Medicine ICU,Respiratory: Other,Inpatient,Susceptible,Intermediate,No Information,No Information
+1106422,32.56557,0.31704,Klebsiella pneumoniae,Enterobacteriaceae,Namirembe,Female,Unknown,2021,Pediatric ICU,Wound,Inpatient,Susceptible,Resistant,No Information,No Information
+1106423,32.56557,0.31704,Klebsiella pneumoniae,Enterobacteriaceae,Namirembe,Male,19 to 64 Years,2021,Surgery General,Wound,Inpatient,Susceptible,Resistant,No Information,No Information
+1106425,32.56557,0.31704,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Namirembe,Male,19 to 64 Years,2021,Surgery ICU,Wound,Inpatient,Susceptible,No Information,No Information,No Information
+1106426,32.56557,0.31704,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Namirembe,Male,0 to 2 Years,2021,Pediatric General,Urine,Inpatient,Susceptible,No Information,No Information,No Information
+1106427,32.56557,0.31704,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Namirembe,Male,65 to 84 Years,2021,Medicine ICU,Respiratory: Other,Inpatient,Susceptible,No Information,No Information,No Information
+1046194,32.66444,0.3343,Klebsiella pneumoniae,Enterobacteriaceae,Kira,Male,65 to 84 Years,2022,Surgery General,Intestinal: Other,Inpatient,Resistant,Resistant,No Information,No Information
+1046198,32.66444,0.3343,Klebsiella pneumoniae,Enterobacteriaceae,Kira,Female,19 to 64 Years,2022,Medicine ICU,Respiratory: Other,Inpatient,Resistant,Resistant,No Information,No Information
+1046184,32.66444,0.3343,Klebsiella pneumoniae,Enterobacteriaceae,Kira,Male,19 to 64 Years,2022,None Given,Skin: Other,None Given,Susceptible,Resistant,No Information,No Information
+1046185,32.66444,0.3343,Escherichia coli,Enterobacteriaceae,Kira,Female,19 to 64 Years,2022,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1046188,32.66444,0.3343,Klebsiella pneumoniae,Enterobacteriaceae,Kira,Female,19 to 64 Years,2022,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1046189,32.66444,0.3343,Klebsiella pneumoniae,Enterobacteriaceae,Kira,Female,65 to 84 Years,2022,Medicine General,Wound,Inpatient,Susceptible,Resistant,No Information,Resistant
+1046190,32.66444,0.3343,Klebsiella pneumoniae,Enterobacteriaceae,Kira,Male,19 to 64 Years,2022,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,Susceptible
+1046191,32.66444,0.3343,Klebsiella pneumoniae,Enterobacteriaceae,Kira,Female,19 to 64 Years,2022,Medicine General,Urine,Inpatient,Susceptible,Intermediate,No Information,Resistant
+1046192,32.66444,0.3343,Klebsiella pneumoniae,Enterobacteriaceae,Kira,Male,19 to 64 Years,2022,None Given,Respiratory: Other,None Given,Susceptible,Resistant,No Information,Resistant
+1046193,32.66444,0.3343,Klebsiella pneumoniae,Enterobacteriaceae,Kira,Female,65 to 84 Years,2022,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,Susceptible
+1046195,32.66444,0.3343,Klebsiella pneumoniae,Enterobacteriaceae,Kira,Female,3 to 12 Years,2022,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,Resistant
+1046197,32.66444,0.3343,Klebsiella pneumoniae,Enterobacteriaceae,Kira,Female,19 to 64 Years,2022,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,Resistant
+1046199,32.66444,0.3343,Klebsiella pneumoniae,Enterobacteriaceae,Kira,Female,85 and Over,2022,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,Resistant
+1046200,32.66444,0.3343,Klebsiella pneumoniae,Enterobacteriaceae,Kira,Male,19 to 64 Years,2022,Medicine General,Wound,Inpatient,Susceptible,Resistant,No Information,Resistant
+1046201,32.66444,0.3343,Citrobacter freundii,Enterobacteriaceae,Kira,Male,19 to 64 Years,2022,Medicine General,Urine,Inpatient,Susceptible,Resistant,No Information,No Information
+1046202,32.66444,0.3343,Klebsiella pneumoniae,Enterobacteriaceae,Kira,Male,65 to 84 Years,2022,Surgery General,Skin: Other,Inpatient,Susceptible,Resistant,No Information,No Information
+1046203,32.66444,0.3343,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Kira,Male,19 to 64 Years,2022,Medicine ICU,Respiratory: Other,Inpatient,Susceptible,No Information,No Information,No Information
+1046205,32.66444,0.3343,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Kira,Female,65 to 84 Years,2022,Medicine ICU,Respiratory: Other,Inpatient,Susceptible,No Information,No Information,No Information
+1046206,32.66444,0.3343,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Kira,Female,65 to 84 Years,2022,Medicine General,Skin: Other,Inpatient,Susceptible,No Information,No Information,No Information
+39094,32.6276,0.35131,Escherichia coli,Enterobacteriaceae,Kyambogo,Male,13 to 18 Years,2022,Surgery ICU,Blood,No Information,Intermediate,Resistant,No Information,No Information
+39098,32.6276,0.35131,Escherichia coli,Enterobacteriaceae,Kyambogo,Male,19 to 64 Years,2022,Surgery General,Wound,No Information,Intermediate,Resistant,No Information,No Information
+39101,32.6276,0.35131,Escherichia coli,Enterobacteriaceae,Kyambogo,Female,19 to 64 Years,2022,Surgery General,Urine,No Information,Intermediate,Resistant,No Information,No Information
+39035,32.6276,0.35131,Staphylococcus aureus,Staphylococcus spp,Kyambogo,Male,0 to 2 Years,2022,Pediatric General,CSF,No Information,No Information,No Information,Susceptible,No Information
+39036,32.6276,0.35131,Staphylococcus aureus,Staphylococcus spp,Kyambogo,Female,19 to 64 Years,2022,Surgery General,Gastric Abscess,No Information,No Information,No Information,Susceptible,No Information
+39040,32.6276,0.35131,Staphylococcus aureus,Staphylococcus spp,Kyambogo,Female,19 to 64 Years,2022,Surgery General,Abscess,No Information,No Information,No Information,Susceptible,No Information
+39042,32.6276,0.35131,Staphylococcus aureus,Staphylococcus spp,Kyambogo,Male,13 to 18 Years,2022,Pediatric General,Blood,No Information,No Information,No Information,Susceptible,No Information
+39092,32.6276,0.35131,Staphylococcus aureus,Staphylococcus spp,Kyambogo,Male,19 to 64 Years,2022,Surgery General,Abscess,No Information,No Information,No Information,Intermediate,Resistant
+39097,32.6276,0.35131,Staphylococcus aureus,Staphylococcus spp,Kyambogo,Male,19 to 64 Years,2022,Medicine General,Wound,No Information,No Information,No Information,Resistant,Resistant
+39104,32.6276,0.35131,Staphylococcus sciuri,Staphylococcus spp,Kyambogo,Male,19 to 64 Years,2022,Surgery General,Urethra,No Information,No Information,No Information,Resistant,Resistant
+39108,32.6276,0.35131,Staphylococcus aureus,Staphylococcus spp,Kyambogo,Male,19 to 64 Years,2022,Emergency Room,Wound,No Information,No Information,No Information,Resistant,Resistant
+1106511,32.53299,0.31665,Klebsiella pneumoniae,Enterobacteriaceae,Lugala,Male,19 to 64 Years,2022,Medicine General,Urine,Inpatient,Resistant,Resistant,No Information,Resistant
+1106513,32.53299,0.31665,Acinetobacter baumannii,Non-Enterobacteriaceae,Lugala,Male,19 to 64 Years,2022,Medicine ICU,Respiratory: Other,Inpatient,Resistant,No Information,No Information,Resistant
+1147314,32.53299,0.31665,Escherichia coli,Enterobacteriaceae,Lugala,Female,19 to 64 Years,2022,Other,Wound,None Given,Resistant,Resistant,No Information,Resistant
+1147317,32.53299,0.31665,Escherichia coli,Enterobacteriaceae,Lugala,Male,19 to 64 Years,2022,Other,Urine,None Given,Resistant,Resistant,No Information,Susceptible
+1147321,32.53299,0.31665,Acinetobacter baumannii,Non-Enterobacteriaceae,Lugala,Male,65 to 84 Years,2022,General Unspecified ICU,Endotracheal aspirate,Inpatient,Resistant,No Information,No Information,No Information
+1147323,32.53299,0.31665,Acinetobacter baumannii,Non-Enterobacteriaceae,Lugala,Male,65 to 84 Years,2022,None Given,Urine,None Given,Resistant,No Information,No Information,No Information
+1147333,32.53299,0.31665,Escherichia coli,Enterobacteriaceae,Lugala,Female,19 to 64 Years,2022,Other,Urine,None Given,Resistant,Resistant,No Information,No Information
+1147338,32.53299,0.31665,Acinetobacter baumannii,Non-Enterobacteriaceae,Lugala,Male,85 and Over,2022,General Unspecified ICU,Endotracheal aspirate,Inpatient,Resistant,No Information,No Information,No Information
+1147342,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Female,65 to 84 Years,2022,Medicine General,Cellulitis,Inpatient,Resistant,No Information,No Information,Susceptible
+1106429,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Male,65 to 84 Years,2022,Surgery ICU,Wound,Inpatient,Susceptible,No Information,No Information,No Information
+1106430,32.53299,0.31665,Pseudomonas aeruginosa,Non-Enterobacteriaceae,Lugala,Male,19 to 64 Years,2022,Medicine General,Respiratory: Other,Inpatient,Susceptible,No Information,No Information,No Information
