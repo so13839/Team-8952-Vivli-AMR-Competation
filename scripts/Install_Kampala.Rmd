@@ -1,0 +1,106 @@
+---
+title: "Kampala Dashboard"
+output:
+  html_document: default
+  pdf_document: default
+date: "2024-08-14"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Instructions for Using the Kampala R Shiny Dashboard Script
+
+Below is a step-by-step guide to install and run the R Shiny dashboard on a local desktop and on an R Shiny Server.
+
+---
+
+### **1. Running the R Shiny Script on Desktop (Local Machine)**
+
+#### **Step 1: Install R and RStudio**
+1. **Install R**: Download and install R from [CRAN](https://cran.r-project.org/).
+2. **Install RStudio**: Download and install RStudio from [here](https://www.rstudio.com/products/rstudio/download/).
+
+#### **Step 2: Install Required Packages**
+1. Open RStudio.
+2. Install the necessary R packages by running the following commands in the RStudio console:
+   ```r
+   install.packages(c("shiny", "shinydashboard", "leaflet", "plotly", "tidyverse", "DT", "RColorBrewer"))
+   ```
+
+#### **Step 3: Set Up Your Project**
+1. Download the R Shiny script (`app.R`) and place it in a dedicated project folder on your local machine.
+2. Ensure that the `Kampala_data.csv` file is in the same folder as the `app.R` script.
+
+#### **Step 4: Run the App**
+1. Open the `app.R` script in RStudio.
+2. In the top-right corner of the script, click the **Run App** button, or run the following command in the RStudio console:
+   ```r
+   shiny::runApp("path_to_your_project_folder")
+   ```
+3. The dashboard will launch in your default web browser. You can interact with the visualizations and download data as specified.
+
+---
+
+### **2. Running the R Shiny Script on an R Shiny Server**
+
+#### **Step 1: Install R and Shiny Server**
+1. **Install R**: Follow the instructions for installing R as described above.
+2. **Install Shiny Server**:
+   - For **Debian/Ubuntu**:
+     ```bash
+     sudo apt-get install r-base
+     sudo apt-get install gdebi-core
+     wget https://download3.rstudio.org/ubuntu-14.04/x86_64/shiny-server-1.5.16.958-amd64.deb
+     sudo gdebi shiny-server-1.5.16.958-amd64.deb
+     ```
+
+   - For **Red Hat/CentOS**:
+     ```bash
+     sudo yum install R
+     sudo yum install epel-release
+     sudo yum install gdebi-core
+     wget https://download3.rstudio.org/centos7.4/x86_64/shiny-server-1.5.16.958-rh5-x86_64.rpm
+     sudo yum install shiny-server-1.5.16.958-rh5-x86_64.rpm
+     ```
+
+#### **Step 2: Install R Packages on the Server**
+1. Connect to your server via SSH.
+2. Open an R session on the server and install the necessary R packages:
+   ```r
+   install.packages(c("shiny", "shinydashboard", "leaflet", "plotly", "tidyverse", "DT", "RColorBrewer"))
+   ```
+
+#### **Step 3: Deploy the App to Shiny Server**
+1. **Upload the Files**:
+   - Place your `app.R` file and the `Kamapala_data.csv` file in a directory on the server (e.g., `/srv/shiny-server/AMR-Dashboard`).
+
+2. **Set File Permissions**:
+   - Ensure the Shiny app directory has the correct file permissions. Typically, this can be done with:
+     ```bash
+     sudo chown -R shiny:shiny /srv/shiny-server/AMR-Dashboard
+     sudo chmod -R 755 /srv/shiny-server/AMR-Dashboard
+     ```
+
+3. **Restart Shiny Server**:
+   - Restart the Shiny server to load the new application:
+     ```bash
+     sudo systemctl restart shiny-server
+     ```
+
+#### **Step 4: Access the Application**
+1. Navigate to the server's IP address or domain, followed by the directory where your app is stored. For example:
+   ```
+   http://your-server-ip:3838/AMR-Dashboard
+   ```
+2. The dashboard will launch in your browser, similar to running it locally. Interact with the visualizations and download data as needed.
+
+---
+
+### **Troubleshooting**
+- **Ensure file paths are correct**: If you face any issues with file paths, verify that `Kamapal_data.csv` is in the correct directory relative to the `app.R` script.
+- **Check server logs**: On Shiny Server, check the logs at `/var/log/shiny-server/` for detailed error messages.
+- **Installing packages for Shiny Server**: It advisable to install all packages through R console.  Sometimes packages installed through RStudio do not work on the Shiny server.
+
+Now you're ready 
